@@ -1,0 +1,272 @@
+Sample	Sample Title	Cultivar	Variety	Variety2	Variety3	Type	Preparation	Preparation2	spoilage	inoculation_fortification	Fermentation (days)	Fermentation_class	pH	conc_NaCl	g_L_lactic_acid
+C135	C135	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.15	44.62	8.94
+O100	C144	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Green olives	Natural olives	Natural olives	Gas	None	850	365 < days ≤ 850	4.48	49.15	3.79
+O101	C145	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Green olives	Natural olives	Natural olives	None	None	850	365 < days ≤ 850	NA	NA	NA
+O102	CY5	Ladoelia	Ladoelia	Others	Others	Black olives	Natural olives	Natural olives	None	None	300	240 < days ≤ 365	5.05	15.0959344	NA
+O103	CP5	Tonda di Cagliari	Tonda di Cagliari	Others	Others	Green olives	Natural olives	Natural olives	None	None	300	240 < days ≤ 365	3.91	43.75321796	5.274945455
+O104	C146	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Green olives	Natural olives	Natural olives	None	None	850	365 < days ≤ 850	4.51	47.24	4.73
+O106	C148	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Green olives	Natural olives	Natural olives	None	None	515	365 < days ≤ 850	4.06	30.3	6.9
+O107	C149	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Green olives	Natural olives	Natural olives	None	None	515	365 < days ≤ 850	3.97	33.53	8.84
+O108	C150	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Green olives	Natural olives	Natural olives	None	None	515	365 < days ≤ 850	4.02	31.8	7.77
+O109	C151	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Green olives	Natural olives	Natural olives	None	None	515	365 < days ≤ 850	4.07	35.97	6.15
+O110	PVG01	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	None	None	60	days ≤ 170	3.91	43.4	6.82
+O111	C152	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Green olives	Natural olives	Natural olives	None	None	515	365 < days ≤ 850	3.87	36.93	8.5
+O112	C153	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Green olives	Natural olives	Natural olives	None	None	515	365 < days ≤ 850	3.9	34.12	8.74
+O114	CY1	Ladoelia	Ladoelia	Others	Others	Green olives	Natural olives	Natural olives	None	None	300	240 < days ≤ 365	4.17	16.92894913	3.961293103
+O116	CY3	Ladoelia	Ladoelia	Others	Others	Green olives	Natural olives	Natural olives	None	None	300	240 < days ≤ 365	4.45	15.5135075	1.907116667
+O11	CY6	Manzanillo	Manzanilla	Others	Others	Green olives	Natural olives	Natural olives	None	None	300	240 < days ≤ 365	8.08	79.3122006	NA
+O120	PVG02	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	None	None	60	days ≤ 170	3.94	59.59	7.51
+O121	CY10	Ladoelia	Ladoelia	Others	Others	Green olives	Natural olives	Natural olives	None	None	300	240 < days ≤ 365	5.02	246.7743405	NA
+O122	CP1	Pit'ze Carroga	Pit'ze Carroga	Others	Others	Green olives	Natural olives	Natural olives	None	None	150	days ≤ 170	3.76	34.98162662	6.7575
+O123	CP2	Pit'ze Carroga	Pit'ze Carroga	Others	Others	Green olives	Natural olives	Natural olives	None	None	150	days ≤ 170	3.75	34.79124739	13.45064286
+O124	CP3	Pit'ze Carroga	Pit'ze Carroga	Others	Others	Green olives	Natural olives	Natural olives	None	None	150	days ≤ 170	3.8	38.38221201	10.69732727
+O125	J1	Okal	Okal	Others	Others	Green olives	Specialties	Specialties	None	None	170	days ≤ 170	4.45	40.49	0.52405102
+O126	J2	Cornenzuelo de Jaén	Cornenzuelo de Jaén	Others	Others	Green olives	Specialties	Specialties	None	None	170	days ≤ 170	4.85	31.27	0.66674
+O127	J3	Okal	Okal	Others	Others	Green olives	Specialties	Specialties	None	None	170	days ≤ 170	4.45	48.52	4.137244898
+O128	J4	Cornenzuelo de Jaén	Cornenzuelo de Jaén	Others	Others	Green olives	Specialties	Specialties	None	None	170	days ≤ 170	4.32	42.09	3.92836
+O129	J5	Okal	Okal	Others	Others	Green olives	Specialties	Specialties	None	None	170	days ≤ 170	4.59	6.12	0.56763
+O12	J6	Cornenzuelo de Jaén	Cornenzuelo de Jaén	Others	Others	Green olives	Specialties	Specialties	None	None	170	days ≤ 170	4.65	2.15	0.5406
+O131	MO2	Termite di Bitetto	Termite di Bitetto	Others	Others	Olives turning color	Natural olives	Natural olives	None	None	210	170 < days ≤ 240	NA	NA	NA
+O132	MO3	Unknown	Unknown	Others	Others	Olives turning color	Natural olives	Natural olives	Gas	None	210	170 < days ≤ 240	3.96	55.68650993	6.098347368
+O133	MO4	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Olives turning color	Natural olives	Natural olives	Gas	None	210	170 < days ≤ 240	3.82	49.14960139	6.4872
+O134	MO5	Taggiasca	Taggiasca	Others	Others	Black olives	Natural olives	Natural olives	Gas	None	210	170 < days ≤ 240	4.09	57.63814563	5.436370787
+O135	MO6	Nocellara Etnea	Olive verdi di Paternò	Others	Others	Green olives	Natural olives	Natural olives	None	None	210	170 < days ≤ 240	4.18	64.18890986	4.855915789
+O136	MO7	Picual	Picual	Others	Others	Black olives	Natural olives	Natural olives	None	None	210	170 < days ≤ 240	3.7	94.16510608	15.53324
+O137	FLC12	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	0	before fermentation	5.29	22.73055292	3.37875
+O138	FLC13	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	0	before fermentation	4.78	21.87862376	6.503371795
+O139	FLC14	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	0	before fermentation	5.54	24.00545821	2.692643678
+O140	FLC15	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	0	before fermentation	4.94	18.88121771	3.466891304
+O141	FLC16	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	0	before fermentation	4.18	19.40349665	9.590644444
+O142	FL1_2	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	Gas	None	180	170 < days ≤ 240	NA	NA	NA
+O143	FL3_2	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	None	None	180	170 < days ≤ 240	NA	NA	NA
+O144	C75	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.582	94.81127786	3.20756
+O145	C76	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.97	58.94676826	3.64905
+O146	C81	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.778	75.6519279	3.05439
+O147	C82	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.216	97.09122933	9.474015
+O148	C83	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.577	101.5149488	3.707615
+O149	C84	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.936	61.0857626	10.696672
+O150	PVG05	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	None	None	60	days ≤ 170	3.83	74.78	6.47
+O151	C80	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.67	77.4711495	2.64894
+O152	C86	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.844	84.18990123	4.194155
+O153	C88	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.047	80.28233585	10.888585
+O154	C87	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.784	73.43785782	3.482365
+O155	C90	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.89	58	10.700276
+O156	C89	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.065	49.32419431	13.56005
+O157	C98	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.694	94.81127786	8.996485
+O158	C99	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.102	73.22004644	8.005385
+O159	C95	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.82	70.02933463	6.716955
+O15	C93	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.716	81.48356094	11.2625
+O160	C96	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.821	62.74079248	3.91935
+O161	C78	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.932	110.6470909	16.87573
+O162	C91	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.678	78.6303122	8.6496
+O163	C94	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.758	94.2497051	20.06527
+O164	C92	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.68	70.86633942	3.536425
+O165	C85	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.155	97.66973289	3.82024
+O166	C100	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.714	88.55029248	21.92133
+O167	C107	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.79	71.71334827	15.6774
+O168	C108	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.554	88.0258039	4.04549
+O169	C118	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.218	65.21087085	13.35282
+O170	C120	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.949	94.53007446	10.386728
+O171	C121	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.11	93.13651856	8.923504
+O172	C122	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.19	97.09122933	10.41556
+O173	C123	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.22	50.51030605	7.986464
+O174	C119	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.008	84.18990123	16.92078
+O175	C154	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.805	73.43785782	11.107528
+O176	C155	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.013	93.13651856	12.591475
+O177	C157	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.131	47.03487563	13.041975
+O178	C162	Termite di Bitetto	Termite di Bitetto	Others	Others	Green olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	3.726	116.7239565	17.447865
+O179	C164	Leccino	Leccino	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.035	77.01228334	23.853975
+O180	PVG08	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	Zapatera/Palmiche	None	60	days ≤ 170	4.15	62.22	6.28
+O181	C165	Leccino	Leccino	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.046	90.41073502	20.871665
+O182	C166	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.987	92.03647991	10.85705
+O183	C163	Termite di Bitetto	Termite di Bitetto	Others	Others	Green olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	3.736	119.8864223	16.19097
+O184	C160	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.757	108.6926056	4.572575
+O185	FL5_2	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	Gas	None	180	170 < days ≤ 240	NA	NA	NA
+O186	FL7_2	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	None	None	180	170 < days ≤ 240	5.52	56.91673775	3.16251
+O187	FL9_2	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	None	None	160	days ≤ 170	4.38	54.7646101	4.765288889
+O189	FL11_2	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Olives turning color	Natural olives	Natural olives	Gas	None	180	170 < days ≤ 240	3.99	54.9996594	3.805194175
+O18	FL13_2	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Olives turning color	Natural olives	Natural olives	None	None	180	170 < days ≤ 240	3.92	64.44363067	4.22569
+O190	FL15_2	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Olives turning color	Natural olives	Natural olives	Gas	None	130	days ≤ 170	4.22	69.01444503	4.58609
+O191	IP1	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	None	None	90	days ≤ 170	4.25	64.44363067	4.699333333
+O192	IP2	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	None	None	90	days ≤ 170	4.41	65.55714019	3.53192
+O193	IP5	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	None	None	30	days ≤ 170	4.35	69.31065451	4.125166667
+O194	IP6	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	None	None	30	days ≤ 170	4.23	78.14118627	5.27986
+O195	IP7	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	None	None	30	days ≤ 170	4.61	70.50826044	2.5228
+O196	IP8	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	Gas	None	90	days ≤ 170	4.51	129.5269085	2.71201
+O198	OD5_giugno	Leccino	Leccino	Others	Others	Olives turning color	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	NA	NA	NA
+O199	OD6_giugno	Leccino	Leccino	Others	Others	Olives turning color	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	NA	NA	NA
+O200	PVG10	Kalamata	Kalamata	Kalamata	Others	Black olives	Natural olives	Natural olives	None	None	150	days ≤ 170	3.6	101.88	7.43
+O201	OD7_giugno	Peranzana	Peranzana	Others	Others	Olives turning color	Natural olives	Natural olives	None	None	110	days ≤ 170	NA	NA	NA
+O202	OD8_giugno	Peranzana	Peranzana	Others	Others	Olives turning color	Natural olives	Natural olives	None	None	210	170 < days ≤ 240	NA	NA	NA
+O203	FI1	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	None	None	180	170 < days ≤ 240	4.12	34.56129444	6.545195402
+O204	FI2	Nocellara Etnea	Olive verdi di Paternò	Others	Others	Green olives	Natural olives	Natural olives	None	None	0	before fermentation	NA	NA	NA
+O205	FI3	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.59	29.89234596	4.57343038
+O206	FI4	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.75	44.01898254	9.580020408
+O207	FI5	Leccino	Leccino	Others	Others	Olives turning color	Natural olives	Natural olives	None	None	210	170 < days ≤ 240	NA	NA	NA
+O208	FI6	Kalamata	Kalamata	Kalamata	Others	Black olives	Natural olives	Natural olives	None	None	300	240 < days ≤ 365	3.45	32.64074029	2.465373626
+O209	FI7	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	None	None	240	170 < days ≤ 240	4.64	45.39520692	18.40614286
+O20	FI8	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	0	before fermentation	6.2	34.56129444	0.272671053
+O218	PVG11	Kalamata	Kalamata	Kalamata	Others	Black olives	Natural olives	Natural olives	None	None	150	days ≤ 170	3.8	109.75	7.5346125
+O21	C138	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.93	39.1	10.45
+O222	T03	Tonda di Cagliari	Tonda di Cagliari	Others	Others	Green olives	Natural olives	Natural olives	None	None	300	240 < days ≤ 365	4.64	66.41	2.55
+O223	T06	Tonda di Cagliari	Tonda di Cagliari	Others	Others	Green olives	Natural olives	Natural olives	None	None	301	240 < days ≤ 365	4.62	77.94	2.88
+O224	T10	Tonda di Cagliari	Tonda di Cagliari	Others	Others	Green olives	Natural olives	Natural olives	None	None	302	240 < days ≤ 365	4.6	62.51	3.19
+O226	T17	Tonda di Cagliari	Tonda di Cagliari	Others	Others	Green olives	Natural olives	Natural olives	None	None	304	240 < days ≤ 365	4.48	61.71	3.06
+O227	T18	Tonda di Cagliari	Tonda di Cagliari	Others	Others	Green olives	Natural olives	Natural olives	None	None	305	240 < days ≤ 365	4.55	64.71	2.48
+O228	C45	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	None	None	90	days ≤ 170	3.751	114.6621287	3.8743
+O229	C37	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.61	38.89197519	4.796924
+O230	C69	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.964	85.4495933	8.76673
+O231	C73	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.795	98.54395763	3.968905
+O232	C35	Ascolana tenera	Ascolana tenera	Others	Others	Green olives	Alkali treated olives	Alkali treated olives	None	None	180	170 < days ≤ 240	4.047	80.04422425	9.12713
+O233	C42	Itrana	Itrana nera	Itrana nera	Itrana nera	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.56	66.58095191	5.142908
+O234	C44	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	None	None	90	days ≤ 170	3.741	129.8972629	3.112955
+O235	C40	Itrana	Itrana bianca	Others	Others	Green olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.766	87.50442191	9.095595
+O236	C70	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.08	97.38005152	6.401605
+O237	C32	Ascolana tenera	Ascolana tenera	Others	Others	Green olives	Alkali treated olives	Alkali treated olives	Zapatera/Palmiche	None	152	days ≤ 170	4.2	65.40485693	10.311945
+O238	C31	Ascolana tenera	Ascolana tenera	Others	Others	Green olives	Alkali treated olives	Alkali treated olives	Zapatera/Palmiche	None	152	days ≤ 170	4.002	74.31560197	12.636525
+O239	C33	Ascolana tenera	Ascolana tenera	Others	Others	Green olives	Alkali treated olives	Alkali treated olives	None	None	180	170 < days ≤ 240	4.346	82.94877945	3.743655
+O240	C43	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	None	None	90	days ≤ 170	3.877	92.5848655	3.86529
+O241	C63	Itrana	Itrana nera	Itrana nera	Itrana nera	Black olives	Natural olives	Natural olives	None	None	60	days ≤ 170	4.724	61.26747751	4.89243
+O242	C36	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.848	96.80326377	14.38897
+O243	C168	Itrana	Itrana nera	Itrana nera	Itrana nera	Black olives	Natural olives	Natural olives	None	None	450	365 < days ≤ 850	4.758	109.6654942	9.1902
+O244	C22III	Itrana	Itrana nera	Itrana nera	Itrana nera	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.888	86.47090414	4.221185
+O245	C23I	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Alkali treated olives	Alkali treated olives	None	None	240	170 < days ≤ 240	5.462	85.95873191	3.311175
+O246	C49	Konservolia	Konservolia	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.05	126.4707226	8.9199
+O247	C104	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.843	103.6477789	10.58675
+O248	C41	Itrana	Itrana bianca	Others	Others	Green olives	Natural olives	Natural olives	None	None	120	days ≤ 170	4.866	87.24489012	3.37875
+O249	C167	Itrana	Itrana bianca	Others	Others	Green olives	Natural olives	Natural olives	None	None	270	240 < days ≤ 365	4.005	101.2138628	13.72223
+O250	C103	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.968	63.67955209	11.276015
+O251	C19	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.429	106.4559647	3.36974
+O252	C97	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.737	58.77193641	11.158885
+O253	C17I	Termite di Bitetto	Termite di Bitetto	Others	Others	Green olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.758	122.0421922	7.834195
+O254	C38	Itrana	Itrana bianca	Others	Others	Green olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.556	83.19553138	9.1902
+O255	C22II	Itrana	Itrana nera	Itrana nera	Itrana nera	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.898	88.0258039	6.311505
+O256	C102	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.87	51.72494053	11.36161
+O257	C17III	Termite di Bitetto	Termite di Bitetto	Others	Others	Green olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.66	82.94877945	55.7719
+O258	C105	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.856	54.08165832	12.546425
+O259	C66	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.684	116.3777617	4.653665
+O260	PVG16	Conservolea	Conservolea	Others	Others	Black olives	Natural olives	Natural olives	None	None	150	days ≤ 170	3.86	103.9	5.46006
+O261	C34	Ascolana tenera	Ascolana tenera	Others	Others	Green olives	Alkali treated olives	Alkali treated olives	Putrid	None	180	170 < days ≤ 240	4.059	94.2497051	5.194265
+O262	C23II	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Alkali treated olives	Alkali treated olives	None	None	240	170 < days ≤ 240	5.409	45.93037593	4.24371
+O263	C23III	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Alkali treated olives	Alkali treated olives	None	None	240	170 < days ≤ 240	5.42	94.81127786	5.28887
+O264	C101	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.835	88.55029248	12.64103
+O265	C39	Itrana	Itrana nera	Itrana nera	Itrana nera	Black olives	Natural olives	Natural olives	None	None	120	days ≤ 170	4.643	71.71334827	4.930272
+O266	C17II	Termite di Bitetto	Termite di Bitetto	Others	Others	Green olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.728	123.5008652	8.050435
+O267	C74	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.182	51.72494053	8.419845
+O268	C106	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.998	65.99028439	6.374575
+O269	C22I	Itrana	Itrana nera	Itrana nera	Itrana nera	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	5.023	95.65991706	3.64004
+O26	C67	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.674	101.2138628	3.82024
+O270	PVG17	Conservolea	Conservolea	Others	Others	Black olives	Natural olives	Natural olives	Zapatera/Palmiche	None	150	days ≤ 170	4.23	57.53	9.14515
+O271	C68	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.745	77.93274975	3.73014
+O272	C29	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Alkali treated olives	Alkali treated olives	Putrid	None	485	365 < days ≤ 850	NA	NA	NA
+O273	C71	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.808	51.72494053	5.401495
+O274	C27	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Alkali treated olives	Alkali treated olives	Putrid	None	485	365 < days ≤ 850	NA	NA	NA
+O275	C15	Kalamon	Kalamon	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.697	97.09122933	1.36051
+O276	C24I	Amfissa nere	Amfissa nere	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	3.527	84.18990123	10.82101
+O277	C16I	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	None	None	240	170 < days ≤ 240	4.285	103.9561052	15.6774
+O278	C16III	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	None	None	240	170 < days ≤ 240	4.282	101.8169305	22.86738
+O279	C24III	Amfissa nere	Amfissa nere	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	3.562	115.6884494	13.82134
+O27	C24II	Amfissa nere	Amfissa nere	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	3.572	130.6712363	15.7675
+O280	PVG18	Conservolea	Conservolea	Others	Others	Black olives	Natural olives	Natural olives	Zapatera/Palmiche	None	150	days ≤ 170	4.15	103.49	3.68509
+O281	C18III	Aitana	Aitana	Others	Others	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.891	88.28765872	9.95605
+O282	C21III	Itrana	Itrana nera	Itrana nera	Itrana nera	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.649	66.38347762	8.2892
+O283	C21II	Itrana	Itrana nera	Itrana nera	Itrana nera	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.667	108.3702312	12.65905
+O284	C21I	Itrana	Itrana nera	Itrana nera	Itrana nera	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.679	92.5848655	13.34381
+O285	C18I	Aitana	Aitana	Others	Others	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.891	82.70275937	11.284124
+O286	C28	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Alkali treated olives	Alkali treated olives	Putrid	None	485	365 < days ≤ 850	NA	NA	NA
+O288	C65	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.703	89.60866351	3.869795
+O289	C12	Ascolana del Piceno	Ascolana del Piceno DOP	Others	Others	Green olives	Natural olives	Natural olives	None	None	330	240 < days ≤ 365	3.972	87.76472574	6.80255
+O28	C72	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.865	82.94877945	4.788815
+O293	PVG19	Plum	Plum	Others	Others	Green olives	Alkali treated olives	Alkali treated olives	None	None	60	days ≤ 170	3.72	79	8.15405
+O295	C16II	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	None	None	240	170 < days ≤ 240	4.256	95.65991706	11.21745
+O296	C79	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.087	78.86421776	5.12669
+O297	C56	Kalamata	Kalamata	Kalamata	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.003	169.7070952	5.79343
+O298	C55	Kalamata	Kalamata	Kalamata	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	3.881	123.5008652	5.4961
+O299	C53	Konservolia	Konservolia	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.016	117.0711811	4.743765
+O29	C54	Konservolia	Konservolia	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.117	111.9695673	2.2525
+O31	FLC1	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	0	before fermentation	6.49	46.93534343	0.58
+O32	FLC2	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	0	before fermentation	6.63	45.3106195	0.45
+O33	FLC3	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	0	before fermentation	6.15	53.19857509	1.33
+O340	FLC4	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	0	before fermentation	6.54	28.43806221	0.67
+O341	C62	Itrana	Itrana nera	Itrana nera	Itrana nera	Black olives	Natural olives	Natural olives	None	None	60	days ≤ 170	4.72	97.66973289	2.71201
+O342	C61	Itrana	Itrana nera	Itrana nera	Itrana nera	Black olives	Natural olives	Natural olives	None	None	60	days ≤ 170	4.658	59.29799375	2.42369
+O343	C57	Kalamata	Kalamata	Kalamata	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	3.895	106.7726447	6.6674
+O344	C50	Konservolia	Konservolia	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.1	152.4965435	12.1635
+O345	C51	Konservolia	Konservolia	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.057	127.9823263	12.614
+O346	C64	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.659	90.14258332	3.83826
+O347	C60	Kalamata	Kalamata	Kalamata	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	3.884	92.03647991	5.09065
+O348	C52	Konservolia	Konservolia	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.05	117.0711811	8.5595
+O349	C59	Kalamata	Kalamata	Kalamata	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	3.913	101.8169305	5.779915
+O34	C58	Kalamata	Kalamata	Kalamata	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.006	104.5755121	9.99209
+O350	FLC5	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	0	before fermentation	6.4	33.5196905	0.94
+O351	C47	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	None	None	90	days ≤ 170	3.867	157.5614613	6.311505
+O352	C46	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	None	None	90	days ≤ 170	3.781	109.6654942	4.91946
+O353	C18	Aitana	Aitana	Others	Others	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.187	76.10268859	21.52489
+O354	C13	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Natural olives	Natural olives	None	None	180	170 < days ≤ 240	4.519	109.9917217	4.04549
+O355	C48	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	None	None	90	days ≤ 170	3.79	75.6519279	5.2258
+O356	C22	Itrana	Itrana nera	Itrana nera	Itrana nera	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.365	30.57524882	3.6941
+O357	C24	Amfissa nere	Amfissa nere	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.274	113.6449129	3.347215
+O358	C17	Termite di Bitetto	Termite di Bitetto	Others	Others	Green olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.226	92.03647991	5.212285
+O359	C11	Ascolana del Piceno	Ascolana del Piceno DOP	Others	Others	Green olives	Alkali treated olives	Alkali treated olives	None	None	30	days ≤ 170	4.559	77.24137568	4.9555
+O35	C23	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Alkali treated olives	Alkali treated olives	None	None	240	170 < days ≤ 240	6.888	65.79456198	1.03615
+O360	FL1	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	None	None	120	days ≤ 170	4.45	89.53647655	4.78
+O361	C16	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	None	None	240	170 < days ≤ 240	4.026	59.82875975	6.065532
+O362	C20	Itrana	Itrana bianca	Others	Others	Green olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.788	61.81587201	3.02736
+O363	C14	Peranzana	Peranzana	Others	Others	Black olives	Natural olives	Natural olives	None	None	30	days ≤ 170	4.285	124.6062999	9.104605
+O364	C25	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	Putrid	None	240	170 < days ≤ 240	NA	NA	NA
+O365	C26	Picual	Picual	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	3.269	125.7216291	9.636195
+O366	C21	Itrana	Itrana nera	Itrana nera	Itrana nera	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	4.203	63.67955209	7.18998
+O367	C18II	Aitana	Aitana	Others	Others	Black olives	Natural olives	Natural olives	None	None	365	240 < days ≤ 365	3.88	68.99696696	11.435492
+O368	M28	Cacereña	Cacereña	Others	Others	Green olives	Alkali treated olives	Alkali treated olives	None	None	180	170 < days ≤ 240	3.82	55.84	11.7
+O36	M29	Hojiblanca	Hojiblanca	Others	Others	Green olives	Olives darkened by oxidation	Others	None	None	180	170 < days ≤ 240	3.93	33.23	15.17
+O37	FL2	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	None	None	120	days ≤ 170	4.42	101.4845663	4.27
+O39	FL4	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	None	None	120	days ≤ 170	4.51	91.30614353	3.69
+O41	FL6	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Olives turning color	Natural olives	Natural olives	None	None	100	days ≤ 170	4.04	98.35580562	3.34
+O42	FL7	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Olives turning color	Natural olives	Natural olives	None	None	100	days ≤ 170	4	88.14547044	2.91
+O43	FL8	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Olives turning color	Natural olives	Natural olives	None	None	100	days ≤ 170	4.1	104.7128548	3.52
+O44	FL9	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Green olives	Alkali treated olives	Alkali treated olives	Putrid	None	365	240 < days ≤ 365	6.1	94.21064996	1.01
+O45	FL10	Bella di Cerignola	Bella di Daunia	Bella di Daunia	Bella di Daunia	Olives turning color	Natural olives	Natural olives	Putrid	None	365	240 < days ≤ 365	5.46	108.4675923	2.48
+O46	LC1	Maiatica di Ferrandina	Oliva infornata di Ferrandina	Others	Others	Black olives	Alkali treated olives	Alkali treated olives	None	None	0	before fermentation	4.76	12.5	NA
+O47	LC2	Maiatica di Ferrandina	Oliva infornata di Ferrandina	Others	Others	Black olives	Dehydrated olives	Others	None	None	0	before fermentation	5.02	65.48	NA
+O52B	M8	Manzanilla	Manzanilla	Others	Others	Green olives	Natural olives	Natural olives	None	Unknown	180	170 < days ≤ 240	4.03	64.7	6.47718889
+O53B	M9	Hojiblanca	Hojiblanca	Others	Others	Green olives	Natural olives	Natural olives	None	Unknown	180	170 < days ≤ 240	3.74	74.78	6.90166
+O54B	M11	Hojiblanca	Hojiblanca	Others	Others	Olives turning color	Olives darkened by oxidation	Others	None	None	180	170 < days ≤ 240	3.68	17.64	26.70564
+O55B	M15	Manzanilla	Manzanilla	Others	Others	Green olives	Alkali treated olives	Alkali treated olives	None	LAB	180	170 < days ≤ 240	3.79	90.59	8.9199
+O56B	M16	Manzanilla	Manzanilla	Others	Others	Olives turning color	Olives darkened by oxidation	Others	None	None	180	170 < days ≤ 240	3.71	28.33	32.2452
+O57B	M17	Hojiblanca	Hojiblanca	Others	Others	Green olives	Alkali treated olives	Alkali treated olives	None	LAB	180	170 < days ≤ 240	3.84	83.77	11.93825
+O58B	PVG06	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	Spots	None	60	days ≤ 170	3.86	79.3	9.19
+O59B	PVG07	Halkidiki	Halkidiki	Halkidiki	Halkidiki	Green olives	Alkali treated olives	Alkali treated olives	Gas pockets	None	60	days ≤ 170	3.89	73.05	9.04
+O60B	PVG12	Kalamata	Kalamata	Kalamata	Others	Black olives	Natural olives	Natural olives	None	None	150	days ≤ 170	3.32	108.47	4.505
+O66	FLC9	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	180	170 < days ≤ 240	NA	NA	NA
+O67	FLC10	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	180	170 < days ≤ 240	NA	NA	NA
+O68	FLC11	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	180	170 < days ≤ 240	NA	NA	NA
+O73	AF1	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	160	days ≤ 170	5.79	55.94998829	2.01824
+O74	AF2	Peranzana	Peranzana	Others	Others	Olives turning color	Natural olives	Natural olives	None	None	150	days ≤ 170	NA	NA	NA
+O75	AF3	Leccino	Leccino	Others	Others	Olives turning color	Natural olives	Natural olives	None	None	140	days ≤ 170	4.06	67.55227817	7.6585
+O76	AF4	Bella di Cerignola	Bella di Cerignola	Others	Others	Green olives	Alkali treated olives	Alkali treated olives	None	None	190	170 < days ≤ 240	4.87	68.13339032	2.38765
+O77	FLC6	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	180	170 < days ≤ 240	NA	NA	NA
+O78	FLC7	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	180	170 < days ≤ 240	NA	NA	NA
+O79	FLC8	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Nocellara del Belice	Green olives	Specialties	Specialties	None	None	180	170 < days ≤ 240	NA	NA	NA
+O81	C125	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.18	13.79	1.07
+O82	C126	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.02	10.23	0.56
+O83	C127	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.1	9.79	2.03
+O84	C128	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.93	9.87	1.06
+O85	C129	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.01	36.93	9.65
+O86	C130	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.87	36.93	10.15
+O87	C131	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.12	32.37	9.28
+O88	C132	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.97	32.65	9.18
+O89	C133	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.98	37.09	10.34
+O90	C124	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.95	13.02	1.04
+O91	C134	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.9	31.11	12.11
+O92	C136	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.03	37.09	10.13
+O93	C137	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	4.96	41.59	11.11
+O96	C140	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.94	41.4	9.16
+O97	C141	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.93	113.85	8.79
+O98	C142	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	None	None	730	365 < days ≤ 850	3.89	41.59	10.67
+O99	C143	Itrana	Oliva di Gaeta	Oliva di Gaeta	Oliva di Gaeta	Black olives	Natural olives	Natural olives	Gas	None	730	365 < days ≤ 850	NA	NA	NA
+C169	C169	Kalamon	Kalamon	Others	Others	Black olives	Olives trated with lactate	Others	None	None	240	170 < days ≤ 240	4.26	52.80195468	4.608615
+C170	C170	Kalamon	Kalamon	Others	Others	Black olives	Olives trated with lactate	Others	None	None	240	170 < days ≤ 240	3.71	72.07588771	15.77651
+C171	C171	Kalamon	Kalamon	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.16	65.79304702	15.18185
+C172	C172	Kalamon	Kalamon	Others	Others	Black olives	Olives trated with lactate	Others	None	None	240	170 < days ≤ 240	4.38	86.96409865	21.37172
+C173	C173	Kalamon	Kalamon	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	3.99	87.90225168	32.74234
+C174	C174	Kalamon	Kalamon	Others	Others	Black olives	Natural olives	Natural olives	None	None	240	170 < days ≤ 240	4.05	82.8647835	10.10021
