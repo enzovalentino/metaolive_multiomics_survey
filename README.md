@@ -20,3 +20,6 @@ Figure 2 of the paper is made of three panels:
 **Figure 2** can be reproduced with the script *Figure2.R*
 
 ### Figure 3
+Figure 3 of the paper is made of three panels: 
+1. **panels a and c** report Principal Coordinate Analyses of Natural and Alkali-treated olives, respectively. The PCoAs are based on the Bray-Curtis dissimilarity computed on the species-level composition. Samples are color-coded by variety, whereas the shape denotes the fermentation group.
+2. **panels b and d** report the p-values of the pairwise Permutational MANOVA, computed between each pair of varieties. 
