@@ -1,0 +1,1831 @@
+x	y	r
+1	Marinilactibacillus_psychrotolerans	α-farnesene	-0.498700067799019
+2	α-farnesene	Marinilactibacillus_psychrotolerans	NA
+3	Lentilactobacillus_buchneri	2-butanol	0.48602947328613
+4	2-butanol	Lentilactobacillus_buchneri	NA
+5	Marinilactibacillus_psychrotolerans	ethanol	-0.485542930540849
+6	ethanol	Marinilactibacillus_psychrotolerans	NA
+7	Lentilactobacillus_parafarraginis	propanoic acid	0.480957286717385
+8	propanoic acid	Lentilactobacillus_parafarraginis	NA
+9	Marinilactibacillus_piezotolerans	α-farnesene	-0.476974524644737
+10	α-farnesene	Marinilactibacillus_piezotolerans	NA
+11	Lentilactobacillus_buchneri	propanoic acid	0.472000978109135
+12	propanoic acid	Lentilactobacillus_buchneri	NA
+13	Marinilactibacillus_psychrotolerans	ethylhexanoate	-0.469505937959077
+14	ethylhexanoate	Marinilactibacillus_psychrotolerans	NA
+15	Lentilactobacillus_kisonensis	propanoic acid	0.461508716205771
+16	propanoic acid	Lentilactobacillus_kisonensis	NA
+17	Lentilactobacillus_rapi	2-butanol	0.458517507084129
+18	2-butanol	Lentilactobacillus_rapi	NA
+19	Lentilactobacillus_kisonensis	2-butanol	0.454049415230689
+20	2-butanol	Lentilactobacillus_kisonensis	NA
+21	Lentilactobacillus_rapi	propanoic acid	0.451360763047226
+22	propanoic acid	Lentilactobacillus_rapi	NA
+23	Lentilactobacillus_parafarraginis	p-creosol	0.435346041683111
+24	p-creosol	Lentilactobacillus_parafarraginis	NA
+25	Lentilactobacillus_kisonensis	methylpropionate	0.434767144776696
+26	methylpropionate	Lentilactobacillus_kisonensis	NA
+27	Marinilactibacillus_psychrotolerans	2-methyl-1-propanol	-0.431010378749752
+28	2-methyl-1-propanol	Marinilactibacillus_psychrotolerans	NA
+29	Lentilactobacillus_buchneri	p-creosol	0.427907052593168
+30	p-creosol	Lentilactobacillus_buchneri	NA
+31	Marinilactibacillus_psychrotolerans	isoamylalcohol	-0.423914446686179
+32	isoamylalcohol	Marinilactibacillus_psychrotolerans	NA
+33	Marinilactibacillus_piezotolerans	ethylhexanoate	-0.423389534827082
+34	ethylhexanoate	Marinilactibacillus_piezotolerans	NA
+35	Lentilactobacillus_parafarraginis	2-butanol	0.421534087816011
+36	2-butanol	Lentilactobacillus_parafarraginis	NA
+37	Pediococcus_parvulus	methylpropionate	0.417810112270811
+38	methylpropionate	Pediococcus_parvulus	NA
+39	Lentilactobacillus_kisonensis	4-methoxyphenol	0.414439312872895
+40	4-methoxyphenol	Lentilactobacillus_kisonensis	NA
+41	Lentilactobacillus_kisonensis	acetic acid	0.409944580694421
+42	acetic acid	Lentilactobacillus_kisonensis	NA
+43	Lentilactobacillus_kisonensis	p-creosol	0.409757174373057
+44	p-creosol	Lentilactobacillus_kisonensis	NA
+45	Marinilactibacillus_psychrotolerans	ethyl-3-methylbutanoate	-0.408753008201045
+46	ethyl-3-methylbutanoate	Marinilactibacillus_psychrotolerans	NA
+47	Lentilactobacillus_rapi	ethylbutanoate	0.408039109783308
+48	ethylbutanoate	Lentilactobacillus_rapi	NA
+49	Leuconostoc_mesenteroides	ethyl lactate	0.406469075141501
+50	ethyl lactate	Leuconostoc_mesenteroides	NA
+51	Lentilactobacillus_kisonensis	1-propanol	0.403990924229009
+52	1-propanol	Lentilactobacillus_kisonensis	NA
+53	Marinilactibacillus_psychrotolerans	1-nonanol	-0.403642119982565
+54	1-nonanol	Marinilactibacillus_psychrotolerans	NA
+55	Lentilactobacillus_rapi	4-methoxyphenol	0.399214635526317
+56	4-methoxyphenol	Lentilactobacillus_rapi	NA
+57	Paucilactobacillus_vaccinostercus	α-farnesene	-0.395714606800163
+58	α-farnesene	Paucilactobacillus_vaccinostercus	NA
+59	Marinilactibacillus_psychrotolerans	3-pentanol	-0.394438489564551
+60	3-pentanol	Marinilactibacillus_psychrotolerans	NA
+61	Rhodobacteraceae_bacterium	isoamylalcohol	-0.394361380095401
+62	isoamylalcohol	Rhodobacteraceae_bacterium	NA
+63	Secundilactobacillus_collinoides	p-creosol	0.392636727709529
+64	p-creosol	Secundilactobacillus_collinoides	NA
+65	Lentilactobacillus_kisonensis	ethyl-2-methylbutanoate	0.392506563123275
+66	ethyl-2-methylbutanoate	Lentilactobacillus_kisonensis	NA
+67	Lentilactobacillus_parafarraginis	acetic acid	0.392461021354359
+68	acetic acid	Lentilactobacillus_parafarraginis	NA
+69	Lentilactobacillus_kisonensis	ethyl lactate	0.39175235565407
+70	ethyl lactate	Lentilactobacillus_kisonensis	NA
+71	Lentilactobacillus_kisonensis	ethylbutanoate	0.389782986849519
+72	ethylbutanoate	Lentilactobacillus_kisonensis	NA
+73	Marinilactibacillus_psychrotolerans	ethyl lactate	-0.388781191397789
+74	ethyl lactate	Marinilactibacillus_psychrotolerans	NA
+75	Lentilactobacillus_rapi	methylpropionate	0.387346705836641
+76	methylpropionate	Lentilactobacillus_rapi	NA
+77	Marinilactibacillus_psychrotolerans	ethyloctanoate	-0.38691001641913
+78	ethyloctanoate	Marinilactibacillus_psychrotolerans	NA
+79	Lentilactobacillus_rapi	1-propanol	0.386774627013418
+80	1-propanol	Lentilactobacillus_rapi	NA
+81	Marinilactibacillus_piezotolerans	isoamylalcohol	-0.386295859544867
+82	isoamylalcohol	Marinilactibacillus_piezotolerans	NA
+83	Alkalibacterium_pelagium	ethylhexanoate	-0.383192652916117
+84	ethylhexanoate	Alkalibacterium_pelagium	NA
+85	Lentilactobacillus_kisonensis	2-butanone	0.38120193262303
+86	2-butanone	Lentilactobacillus_kisonensis	NA
+87	Pediococcus_parvulus	1-propanol	0.380388415468069
+88	1-propanol	Pediococcus_parvulus	NA
+89	Rhodobacteraceae_bacterium	ethanol	-0.378063344803702
+90	ethanol	Rhodobacteraceae_bacterium	NA
+91	Lentilactobacillus_rapi	p-creosol	0.376607587487752
+92	p-creosol	Lentilactobacillus_rapi	NA
+93	Pediococcus_ethanolidurans	3-pentanol	-0.375339837729055
+94	3-pentanol	Pediococcus_ethanolidurans	NA
+95	Levilactobacillus_namurensis	2-methyl-1-propanol	-0.374942266474159
+96	2-methyl-1-propanol	Levilactobacillus_namurensis	NA
+97	Marinilactibacillus_piezotolerans	1-nonanol	-0.374000246934411
+98	1-nonanol	Marinilactibacillus_piezotolerans	NA
+99	Pediococcus_ethanolidurans	ethanol	-0.37392715539117
+100	ethanol	Pediococcus_ethanolidurans	NA
+101	Lentilactobacillus_rapi	propylpropanoate	0.372339127312987
+102	propylpropanoate	Lentilactobacillus_rapi	NA
+103	Marinilactibacillus_piezotolerans	ethyl-3-methylbutanoate	-0.372271537340015
+104	ethyl-3-methylbutanoate	Marinilactibacillus_piezotolerans	NA
+105	Marinilactibacillus_piezotolerans	ethanol	-0.372088778061727
+106	ethanol	Marinilactibacillus_piezotolerans	NA
+107	Pediococcus_ethanolidurans	1-hexanol	-0.371317987819537
+108	1-hexanol	Pediococcus_ethanolidurans	NA
+109	Halomonas_hibernica	3-pentanol	-0.371138345260722
+110	3-pentanol	Halomonas_hibernica	NA
+111	Marinilactibacillus_psychrotolerans	ethylheptanoate	-0.371052836827807
+112	ethylheptanoate	Marinilactibacillus_psychrotolerans	NA
+113	Leuconostoc_mesenteroides	benzyl alcohol	0.371002777617439
+114	benzyl alcohol	Leuconostoc_mesenteroides	NA
+115	Paucilactobacillus_vaccinostercus	ethylhexanoate	-0.370416880703012
+116	ethylhexanoate	Paucilactobacillus_vaccinostercus	NA
+117	Marinilactibacillus_psychrotolerans	1-hexanol	-0.368608400624547
+118	1-hexanol	Marinilactibacillus_psychrotolerans	NA
+119	Lentilactobacillus_rapi	ethyl-2-methylbutanoate	0.367851934608138
+120	ethyl-2-methylbutanoate	Lentilactobacillus_rapi	NA
+121	Lentilactobacillus_buchneri	methylpropionate	0.367158354577847
+122	methylpropionate	Lentilactobacillus_buchneri	NA
+123	Rhodobacteraceae_bacterium	1-butanol	-0.366749057472757
+124	1-butanol	Rhodobacteraceae_bacterium	NA
+125	Halolactibacillus_alkaliphilus	ethanol	-0.366505735731699
+126	ethanol	Halolactibacillus_alkaliphilus	NA
+127	Lentilactobacillus_kisonensis	isovaleric acid	0.365593678363477
+128	isovaleric acid	Lentilactobacillus_kisonensis	NA
+129	Pediococcus_ethanolidurans	ethyl lactate	-0.363828219993354
+130	ethyl lactate	Pediococcus_ethanolidurans	NA
+131	Ligilactobacillus_acidipiscis	α-farnesene	-0.361782395619845
+132	α-farnesene	Ligilactobacillus_acidipiscis	NA
+133	Lentilactobacillus_buchneri	ethylbutanoate	0.361558448952829
+134	ethylbutanoate	Lentilactobacillus_buchneri	NA
+135	Lentilactobacillus_buchneri	acetic acid	0.36099529545157
+136	acetic acid	Lentilactobacillus_buchneri	NA
+137	Marinilactibacillus_piezotolerans	ethyloctanoate	-0.360959713010402
+138	ethyloctanoate	Marinilactibacillus_piezotolerans	NA
+139	Pediococcus_ethanolidurans	ethyl-3-methylbutanoate	-0.360313907148207
+140	ethyl-3-methylbutanoate	Pediococcus_ethanolidurans	NA
+141	Halomonas_titanicae	3-pentanol	-0.358169440944344
+142	3-pentanol	Halomonas_titanicae	NA
+143	Halolactibacillus_alkaliphilus	ethylhexanoate	-0.356837811064312
+144	ethylhexanoate	Halolactibacillus_alkaliphilus	NA
+145	Rhodobacteraceae_bacterium	1-nonanol	-0.356616361521541
+146	1-nonanol	Rhodobacteraceae_bacterium	NA
+147	Shewanella_sp_C32	benzyl alcohol	-0.356302926822042
+148	benzyl alcohol	Shewanella_sp_C32	NA
+149	Alkalibacterium_olivapovliticus	ethyl-2-methylbutanoate	-0.356244042544002
+150	ethyl-2-methylbutanoate	Alkalibacterium_olivapovliticus	NA
+151	Leuconostoc_mesenteroides	cis-3-hexenylacetate	0.355706366981067
+152	cis-3-hexenylacetate	Leuconostoc_mesenteroides	NA
+153	Lentilactobacillus_buchneri	isovaleric acid	0.355237932137945
+154	isovaleric acid	Lentilactobacillus_buchneri	NA
+155	Lentilactobacillus_buchneri	2-butanone	0.354230245450289
+156	2-butanone	Lentilactobacillus_buchneri	NA
+157	Halolactibacillus_alkaliphilus	benzyl alcohol	-0.353715051985616
+158	benzyl alcohol	Halolactibacillus_alkaliphilus	NA
+159	Halolactibacillus_alkaliphilus	1-hexanol	-0.353362081760631
+160	1-hexanol	Halolactibacillus_alkaliphilus	NA
+161	Lentilactobacillus_kisonensis	ethylhydroxycinnamate	0.35283555049649
+162	ethylhydroxycinnamate	Lentilactobacillus_kisonensis	NA
+163	Pediococcus_ethanolidurans	2,3-butanediol	-0.352712346146116
+164	2,3-butanediol	Pediococcus_ethanolidurans	NA
+165	Lentilactobacillus_parafarraginis	2-butanone	0.352251939419671
+166	2-butanone	Lentilactobacillus_parafarraginis	NA
+167	Alkalibacterium_thalassium	ethylhexanoate	-0.352007757935881
+168	ethylhexanoate	Alkalibacterium_thalassium	NA
+169	Marinilactibacillus_piezotolerans	1-butanol	-0.35178559609813
+170	1-butanol	Marinilactibacillus_piezotolerans	NA
+171	Rhodobacteraceae_bacterium	ethyl-2-methylbutanoate	-0.350739365357054
+172	ethyl-2-methylbutanoate	Rhodobacteraceae_bacterium	NA
+173	Alkalibacterium_thalassium	ethylacetate	-0.350548180317837
+174	ethylacetate	Alkalibacterium_thalassium	NA
+175	Lentilactobacillus_kisonensis	benzyl alcohol	0.350253490606841
+176	benzyl alcohol	Lentilactobacillus_kisonensis	NA
+177	Pediococcus_parvulus	propanoic acid	0.349637228506522
+178	propanoic acid	Pediococcus_parvulus	NA
+179	Marinilactibacillus_psychrotolerans	ethylacetate	-0.349578920217778
+180	ethylacetate	Marinilactibacillus_psychrotolerans	NA
+181	Alkalibacterium_thalassium	α-farnesene	-0.349289925489017
+182	α-farnesene	Alkalibacterium_thalassium	NA
+183	Rhodobacteraceae_bacterium	2-methyl-1-propanol	-0.349109392388651
+184	2-methyl-1-propanol	Rhodobacteraceae_bacterium	NA
+185	Martelella_mediterranea	3-pentanol	-0.34882809334946
+186	3-pentanol	Martelella_mediterranea	NA
+187	Halolactibacillus_alkaliphilus	1-butanol	-0.348628405588995
+188	1-butanol	Halolactibacillus_alkaliphilus	NA
+189	Pediococcus_parvulus	p-creosol	0.348495629144904
+190	p-creosol	Pediococcus_parvulus	NA
+191	Alcanivorax_gelatiniphagus	ethanol	-0.348284435332594
+192	ethanol	Alcanivorax_gelatiniphagus	NA
+193	Lentilactobacillus_buchneri	propylpropanoate	0.34820460064454
+194	propylpropanoate	Lentilactobacillus_buchneri	NA
+195	Terasakiispira_papahanaumokuakeensis	3-pentanol	-0.347930006661407
+196	3-pentanol	Terasakiispira_papahanaumokuakeensis	NA
+197	Alkalibacterium_pelagium	α-farnesene	-0.347914203281967
+198	α-farnesene	Alkalibacterium_pelagium	NA
+199	Lentilactobacillus_parafarraginis	isovaleric acid	0.347632637692449
+200	isovaleric acid	Lentilactobacillus_parafarraginis	NA
+201	Lentilactobacillus_parafarraginis	ethyl-2-methylbutanoate	0.347279173824991
+202	ethyl-2-methylbutanoate	Lentilactobacillus_parafarraginis	NA
+203	Leuconostoc_mesenteroides	hexanoic acid	0.347023750874643
+204	hexanoic acid	Leuconostoc_mesenteroides	NA
+205	Levilactobacillus_namurensis	ethyl-3-methylbutanoate	-0.346933865713133
+206	ethyl-3-methylbutanoate	Levilactobacillus_namurensis	NA
+207	Salinicola_salarius	3-pentanol	-0.345780316483285
+208	3-pentanol	Salinicola_salarius	NA
+209	Rhodobacteraceae_bacterium	1-hexanol	-0.345241809873763
+210	1-hexanol	Rhodobacteraceae_bacterium	NA
+211	Shewanella_sp_C32	ethanol	-0.344668927239418
+212	ethanol	Shewanella_sp_C32	NA
+213	Lentilactobacillus_kisonensis	2,3-butanediol	0.344375766640664
+214	2,3-butanediol	Lentilactobacillus_kisonensis	NA
+215	Alkalibacterium_thalassium	ethyl lactate	-0.344212718392214
+216	ethyl lactate	Alkalibacterium_thalassium	NA
+217	Marinilactibacillus_psychrotolerans	1-butanol	-0.344164042087043
+218	1-butanol	Marinilactibacillus_psychrotolerans	NA
+219	Secundilactobacillus_collinoides	2-butanol	0.344150557581035
+220	2-butanol	Secundilactobacillus_collinoides	NA
+221	Pediococcus_ethanolidurans	benzyl alcohol	-0.344120395898993
+222	benzyl alcohol	Pediococcus_ethanolidurans	NA
+223	Zunongwangia_profunda	3-pentanol	-0.343585464494809
+224	3-pentanol	Zunongwangia_profunda	NA
+225	Alkalibacterium_pelagium	ethyl lactate	-0.343502038709497
+226	ethyl lactate	Alkalibacterium_pelagium	NA
+227	Pediococcus_ethanolidurans	1-butanol	-0.342714231628288
+228	1-butanol	Pediococcus_ethanolidurans	NA
+229	Alkalibacterium_pelagium	ethanol	-0.342141800230855
+230	ethanol	Alkalibacterium_pelagium	NA
+231	Paucilactobacillus_suebicus	ethylhexanoate	-0.341590695283673
+232	ethylhexanoate	Paucilactobacillus_suebicus	NA
+233	Paucilactobacillus_suebicus	ethanol	-0.341048633735926
+234	ethanol	Paucilactobacillus_suebicus	NA
+235	Zunongwangia_profunda	isoamylalcohol	-0.34092757158189
+236	isoamylalcohol	Zunongwangia_profunda	NA
+237	Halomonas_hibernica	octanal	-0.340836537337879
+238	octanal	Halomonas_hibernica	NA
+239	Alkalibacterium_olivapovliticus	isoamylalcohol	-0.340301528225453
+240	isoamylalcohol	Alkalibacterium_olivapovliticus	NA
+241	Lentilactobacillus_parafarraginis	ethylbutanoate	0.339974736770794
+242	ethylbutanoate	Lentilactobacillus_parafarraginis	NA
+243	Malaciobacter_marinus	ethylheptanoate	-0.339283200640817
+244	ethylheptanoate	Malaciobacter_marinus	NA
+245	Rhodobacteraceae_bacterium	ethyl-3-methylbutanoate	-0.338664152925002
+246	ethyl-3-methylbutanoate	Rhodobacteraceae_bacterium	NA
+247	Shewanella_sp_C32	3-pentanol	-0.338122244899396
+248	3-pentanol	Shewanella_sp_C32	NA
+249	Idiomarina_loihiensis	3-pentanol	-0.338037163576758
+250	3-pentanol	Idiomarina_loihiensis	NA
+251	Marinilactibacillus_psychrotolerans	benzyl alcohol	-0.33764481538122
+252	benzyl alcohol	Marinilactibacillus_psychrotolerans	NA
+253	Levilactobacillus_brevis	3-pentanol	-0.336885580754202
+254	3-pentanol	Levilactobacillus_brevis	NA
+255	Salinicola_salarius	2-methyl-1-propanol	-0.336393613980073
+256	2-methyl-1-propanol	Salinicola_salarius	NA
+257	Paucilactobacillus_suebicus	2-methyl-1-propanol	-0.336266588988033
+258	2-methyl-1-propanol	Paucilactobacillus_suebicus	NA
+259	Alkalibacterium_pelagium	isoamylacetate	-0.335861428000608
+260	isoamylacetate	Alkalibacterium_pelagium	NA
+261	Marinilactibacillus_piezotolerans	isoamylacetate	-0.335464495965143
+262	isoamylacetate	Marinilactibacillus_piezotolerans	NA
+263	Zunongwangia_profunda	ethanol	-0.334973966647547
+264	ethanol	Zunongwangia_profunda	NA
+265	Enterococcus_sp_RIT_PI_f	3-pentanol	-0.334460944308215
+266	3-pentanol	Enterococcus_sp_RIT_PI_f	NA
+267	Levilactobacillus_brevis	1-butanol	-0.334435257011616
+268	1-butanol	Levilactobacillus_brevis	NA
+269	Shewanella_dokdonensis	benzyl alcohol	-0.334334687378415
+270	benzyl alcohol	Shewanella_dokdonensis	NA
+271	Pichia_kudriavzevii	α-farnesene	-0.333793679482162
+272	α-farnesene	Pichia_kudriavzevii	NA
+273	Lentilactobacillus_rapi	isovaleric acid	0.333408205605164
+274	isovaleric acid	Lentilactobacillus_rapi	NA
+275	Paucilactobacillus_suebicus	1-hexanol	-0.333399896857033
+276	1-hexanol	Paucilactobacillus_suebicus	NA
+277	Pediococcus_parvulus	2-butanol	0.333067276051342
+278	2-butanol	Pediococcus_parvulus	NA
+279	Leuconostoc_mesenteroides	ethylhydroxycinnamate	0.332666398851612
+280	ethylhydroxycinnamate	Leuconostoc_mesenteroides	NA
+281	Rhodobacteraceae_bacterium	hexanal	-0.332558617774005
+282	hexanal	Rhodobacteraceae_bacterium	NA
+283	Lentilactobacillus_buchneri	1-propanol	0.33219611657367
+284	1-propanol	Lentilactobacillus_buchneri	NA
+285	Lentilactobacillus_parafarraginis	1-propanol	0.332099821425552
+286	1-propanol	Lentilactobacillus_parafarraginis	NA
+287	Zunongwangia_profunda	2-methyl-1-propanol	-0.331631239492859
+288	2-methyl-1-propanol	Zunongwangia_profunda	NA
+289	Terasakiispira_papahanaumokuakeensis	ethanol	-0.331412435802159
+290	ethanol	Terasakiispira_papahanaumokuakeensis	NA
+291	Ancrocorticia_populi	3-pentanol	-0.330920937848844
+292	3-pentanol	Ancrocorticia_populi	NA
+293	Alkalibacterium_thalassium	isoamylacetate	-0.329670373591861
+294	isoamylacetate	Alkalibacterium_thalassium	NA
+295	Lentilactobacillus_parafarraginis	propylpropanoate	0.329235625243121
+296	propylpropanoate	Lentilactobacillus_parafarraginis	NA
+297	Pediococcus_parvulus	ethylbutanoate	0.328836283672264
+298	ethylbutanoate	Pediococcus_parvulus	NA
+299	Martelella_mediterranea	ethanol	-0.328626975534267
+300	ethanol	Martelella_mediterranea	NA
+301	Lentilactobacillus_parafarraginis	methylpropionate	0.32818376933431
+302	methylpropionate	Lentilactobacillus_parafarraginis	NA
+303	Alkalibacterium_pelagium	1-nonanol	-0.327862913462815
+304	1-nonanol	Alkalibacterium_pelagium	NA
+305	Halolactibacillus_alkaliphilus	2-pentanol	-0.327797666006725
+306	2-pentanol	Halolactibacillus_alkaliphilus	NA
+307	Paucilactobacillus_vaccinostercus	1-butanol	-0.327720241488901
+308	1-butanol	Paucilactobacillus_vaccinostercus	NA
+309	Alkalibacterium_pelagium	benzyl alcohol	-0.327497827268248
+310	benzyl alcohol	Alkalibacterium_pelagium	NA
+311	Ligilactobacillus_acidipiscis	2-methyl-1-propanol	-0.327475032087639
+312	2-methyl-1-propanol	Ligilactobacillus_acidipiscis	NA
+313	Halomonas_boliviensis	benzyl alcohol	-0.327429974171125
+314	benzyl alcohol	Halomonas_boliviensis	NA
+315	Marinilactibacillus_piezotolerans	1-propanol	-0.327326795805343
+316	1-propanol	Marinilactibacillus_piezotolerans	NA
+317	Pediococcus_parvulus	4-methoxyphenol	0.327030481278087
+318	4-methoxyphenol	Pediococcus_parvulus	NA
+319	Levilactobacillus_namurensis	ethanol	-0.326736866718374
+320	ethanol	Levilactobacillus_namurensis	NA
+321	Halolactibacillus_alkaliphilus	isoamylalcohol	-0.326718306150895
+322	isoamylalcohol	Halolactibacillus_alkaliphilus	NA
+323	Aerococcus_urinaeequi	ethyl-2-methylbutanoate	-0.326291148185853
+324	ethyl-2-methylbutanoate	Aerococcus_urinaeequi	NA
+325	Salinicola_salarius	ethanol	-0.32619472418779
+326	ethanol	Salinicola_salarius	NA
+327	Marinilactibacillus_psychrotolerans	isoamylacetate	-0.326097088210557
+328	isoamylacetate	Marinilactibacillus_psychrotolerans	NA
+329	Alcanivorax_gelatiniphagus	benzyl alcohol	-0.326001209847972
+330	benzyl alcohol	Alcanivorax_gelatiniphagus	NA
+331	Pediococcus_ethanolidurans	α-farnesene	-0.325895733580341
+332	α-farnesene	Pediococcus_ethanolidurans	NA
+333	Altericroceibacterium_indicum	ethanol	-0.325339842264683
+334	ethanol	Altericroceibacterium_indicum	NA
+335	Pediococcus_ethanolidurans	2-methyl-1-propanol	-0.325180225451828
+336	2-methyl-1-propanol	Pediococcus_ethanolidurans	NA
+337	Halomonas_boliviensis	ethanol	-0.32471920922733
+338	ethanol	Halomonas_boliviensis	NA
+339	Pediococcus_ethanolidurans	4-methoxyphenol	-0.324538792669976
+340	4-methoxyphenol	Pediococcus_ethanolidurans	NA
+341	Lentilactobacillus_kisonensis	isobutyric acid	0.324410784620857
+342	isobutyric acid	Lentilactobacillus_kisonensis	NA
+343	Rhodobacteraceae_bacterium	3-pentanol	-0.324085133816522
+344	3-pentanol	Rhodobacteraceae_bacterium	NA
+345	Alkalibacterium_olivapovliticus	isoamylacetate	-0.323794309322151
+346	isoamylacetate	Alkalibacterium_olivapovliticus	NA
+347	Lentilactobacillus_buchneri	ethyl-2-methylbutanoate	0.323702129359997
+348	ethyl-2-methylbutanoate	Lentilactobacillus_buchneri	NA
+349	Marinilactibacillus_psychrotolerans	trans-2-hepten-1-ol	-0.323359109409556
+350	trans-2-hepten-1-ol	Marinilactibacillus_psychrotolerans	NA
+351	Pediococcus_ethanolidurans	ethylhydroxycinnamate	-0.322699990268967
+352	ethylhydroxycinnamate	Pediococcus_ethanolidurans	NA
+353	Rhodobacteraceae_bacterium	1-propanol	-0.322418069541911
+354	1-propanol	Rhodobacteraceae_bacterium	NA
+355	Altericroceibacterium_indicum	benzyl alcohol	-0.322224664825581
+356	benzyl alcohol	Altericroceibacterium_indicum	NA
+357	Lelliottia_amnigena	hexanoic acid	0.322171917562876
+358	hexanoic acid	Lelliottia_amnigena	NA
+359	Lentilactobacillus_kisonensis	1-nonanol	0.321788933059857
+360	1-nonanol	Lentilactobacillus_kisonensis	NA
+361	Marinilactibacillus_piezotolerans	ethyl lactate	-0.321761979057431
+362	ethyl lactate	Marinilactibacillus_piezotolerans	NA
+363	Rhodobacteraceae_bacterium	α-farnesene	-0.321661549436062
+364	α-farnesene	Rhodobacteraceae_bacterium	NA
+365	Lentilactobacillus_kisonensis	ethyl-3-methylbutanoate	0.321566351004972
+366	ethyl-3-methylbutanoate	Lentilactobacillus_kisonensis	NA
+367	Paucilactobacillus_suebicus	ethyl-3-methylbutanoate	-0.32140371071602
+368	ethyl-3-methylbutanoate	Paucilactobacillus_suebicus	NA
+369	Lentilactobacillus_kisonensis	propylpropanoate	0.321386730928095
+370	propylpropanoate	Lentilactobacillus_kisonensis	NA
+371	Halomonas_hibernica	ethylheptanoate	-0.321206085210471
+372	ethylheptanoate	Halomonas_hibernica	NA
+373	Halolactibacillus_alkaliphilus	ethyl lactate	-0.321074279993743
+374	ethyl lactate	Halolactibacillus_alkaliphilus	NA
+375	Malaciobacter_marinus	octanal	-0.320059268861782
+376	octanal	Malaciobacter_marinus	NA
+377	Lentilactobacillus_rapi	butanoic acid	0.320056686543125
+378	butanoic acid	Lentilactobacillus_rapi	NA
+379	Leuconostoc_mesenteroides	1-nonanol	0.319830234096204
+380	1-nonanol	Leuconostoc_mesenteroides	NA
+381	Levilactobacillus_senmaizukei	trans-2-hepten-1-ol	-0.319498072223326
+382	trans-2-hepten-1-ol	Levilactobacillus_senmaizukei	NA
+383	Ligilactobacillus_acidipiscis	2-butanone	-0.318706584665183
+384	2-butanone	Ligilactobacillus_acidipiscis	NA
+385	Alkalibacterium_pelagium	ethylacetate	-0.318583585056821
+386	ethylacetate	Alkalibacterium_pelagium	NA
+387	Ancrocorticia_populi	octanal	-0.318576430932259
+388	octanal	Ancrocorticia_populi	NA
+389	Lentilactobacillus_buchneri	4-methoxyphenol	0.317566299986972
+390	4-methoxyphenol	Lentilactobacillus_buchneri	NA
+391	Pediococcus_ethanolidurans	isobutyric acid	-0.317016615841519
+392	isobutyric acid	Pediococcus_ethanolidurans	NA
+393	Rhodobacteraceae_bacterium	benzyl alcohol	-0.316978564280121
+394	benzyl alcohol	Rhodobacteraceae_bacterium	NA
+395	Marinilactibacillus_piezotolerans	ethylacetate	-0.315093658782143
+396	ethylacetate	Marinilactibacillus_piezotolerans	NA
+397	Altericroceibacterium_indicum	isoamylalcohol	-0.315049740404355
+398	isoamylalcohol	Altericroceibacterium_indicum	NA
+399	Pediococcus_parvulus	isobutyric acid	0.314705692635536
+400	isobutyric acid	Pediococcus_parvulus	NA
+401	Alkalibacterium_thalassium	ethanol	-0.314682650342129
+402	ethanol	Alkalibacterium_thalassium	NA
+403	Altericroceibacterium_indicum	1-hexanol	-0.314620909096976
+404	1-hexanol	Altericroceibacterium_indicum	NA
+405	Leuconostoc_mesenteroides	2,3-butanediol	0.314340820242369
+406	2,3-butanediol	Leuconostoc_mesenteroides	NA
+407	Alkalibacterium_thalassium	1-nonanol	-0.31394482109337
+408	1-nonanol	Alkalibacterium_thalassium	NA
+409	Pediococcus_parvulus	2,3-butanediol	0.313760110450797
+410	2,3-butanediol	Pediococcus_parvulus	NA
+411	Paucilactobacillus_suebicus	isoamylalcohol	-0.313738596317159
+412	isoamylalcohol	Paucilactobacillus_suebicus	NA
+413	Paucilactobacillus_suebicus	1-nonanol	-0.312767242470097
+414	1-nonanol	Paucilactobacillus_suebicus	NA
+415	Paucilactobacillus_vaccinostercus	benzyl alcohol	-0.312747543361996
+416	benzyl alcohol	Paucilactobacillus_vaccinostercus	NA
+417	Alkalibacterium_olivapovliticus	1-nonanol	-0.312565853118016
+418	1-nonanol	Alkalibacterium_olivapovliticus	NA
+419	Pediococcus_ethanolidurans	cis-3-hexen-1-ol	-0.311248480369788
+420	cis-3-hexen-1-ol	Pediococcus_ethanolidurans	NA
+421	Actinomyces_SGB33761	ethanol	-0.311225445770037
+422	ethanol	Actinomyces_SGB33761	NA
+423	Paucilactobacillus_suebicus	α-farnesene	-0.311156507253283
+424	α-farnesene	Paucilactobacillus_suebicus	NA
+425	Leuconostoc_mesenteroides	ethylheptanoate	0.310740902356158
+426	ethylheptanoate	Leuconostoc_mesenteroides	NA
+427	Marinilactibacillus_psychrotolerans	2-phenylethanol	-0.310736342186769
+428	2-phenylethanol	Marinilactibacillus_psychrotolerans	NA
+429	Pediococcus_ethanolidurans	2-butanol	-0.310605174883683
+430	2-butanol	Pediococcus_ethanolidurans	NA
+431	Malaciobacter_marinus	3-pentanol	-0.3105512430869
+432	3-pentanol	Malaciobacter_marinus	NA
+433	Salinibacter_ruber	1-butanol	-0.310444074601256
+434	1-butanol	Salinibacter_ruber	NA
+435	Lentilactobacillus_rapi	acetic acid	0.310324896390897
+436	acetic acid	Lentilactobacillus_rapi	NA
+437	Altericroceibacterium_indicum	1-butanol	-0.310316397352551
+438	1-butanol	Altericroceibacterium_indicum	NA
+439	Rhodobacteraceae_bacterium	ethylhexanoate	-0.310059580778879
+440	ethylhexanoate	Rhodobacteraceae_bacterium	NA
+441	Pediococcus_ethanolidurans	ethylhexanoate	-0.309777329160061
+442	ethylhexanoate	Pediococcus_ethanolidurans	NA
+443	Alkalibacterium_pelagium	isoamylalcohol	-0.309703563560697
+444	isoamylalcohol	Alkalibacterium_pelagium	NA
+445	Paucilactobacillus_suebicus	3-pentanol	-0.309563349244424
+446	3-pentanol	Paucilactobacillus_suebicus	NA
+447	Leuconostoc_mesenteroides	ethylacetate	0.30950883133828
+448	ethylacetate	Leuconostoc_mesenteroides	NA
+449	Marinilactibacillus_piezotolerans	2-methyl-1-propanol	-0.309158676105278
+450	2-methyl-1-propanol	Marinilactibacillus_piezotolerans	NA
+451	Aerococcus_urinaeequi	1-nonanol	-0.309153874537395
+452	1-nonanol	Aerococcus_urinaeequi	NA
+453	Lentilactobacillus_rapi	ethyl lactate	0.308997160916452
+454	ethyl lactate	Lentilactobacillus_rapi	NA
+455	Levilactobacillus_senmaizukei	ethanol	-0.308914358970219
+456	ethanol	Levilactobacillus_senmaizukei	NA
+457	Leuconostoc_mesenteroides	phenol	0.308755837942946
+458	phenol	Leuconostoc_mesenteroides	NA
+459	Rhodobacteraceae_bacterium	ethylacetate	-0.308735374830392
+460	ethylacetate	Rhodobacteraceae_bacterium	NA
+461	Pediococcus_parvulus	ethyl lactate	0.308695014847901
+462	ethyl lactate	Pediococcus_parvulus	NA
+463	Terasakiispira_papahanaumokuakeensis	α-farnesene	-0.308380669218976
+464	α-farnesene	Terasakiispira_papahanaumokuakeensis	NA
+465	Aerococcus_urinaeequi	acetic acid	-0.308210153438175
+466	acetic acid	Aerococcus_urinaeequi	NA
+467	Alkalibacterium_olivapovliticus	ethanol	-0.307793965484346
+468	ethanol	Alkalibacterium_olivapovliticus	NA
+469	Idiomarina_loihiensis	isoamylalcohol	-0.307762427456489
+470	isoamylalcohol	Idiomarina_loihiensis	NA
+471	Lentilactobacillus_kisonensis	α-farnesene	0.307582683204819
+472	α-farnesene	Lentilactobacillus_kisonensis	NA
+473	Levilactobacillus_senmaizukei	1-hexanol	-0.307441834836197
+474	1-hexanol	Levilactobacillus_senmaizukei	NA
+475	Zunongwangia_profunda	ethylcinnamate	-0.307218088411124
+476	ethylcinnamate	Zunongwangia_profunda	NA
+477	Salinicola_salarius	α-farnesene	-0.306800941526819
+478	α-farnesene	Salinicola_salarius	NA
+479	Halomonas_boliviensis	isoamylalcohol	-0.306681140956644
+480	isoamylalcohol	Halomonas_boliviensis	NA
+481	Alkalibacterium_pelagium	ethyloctanoate	-0.306472108407222
+482	ethyloctanoate	Alkalibacterium_pelagium	NA
+483	Paucilactobacillus_vaccinostercus	isoamylalcohol	-0.306127699155053
+484	isoamylalcohol	Paucilactobacillus_vaccinostercus	NA
+485	Halolactibacillus_alkaliphilus	1-nonanol	-0.305334822164614
+486	1-nonanol	Halolactibacillus_alkaliphilus	NA
+487	Salinicola_salarius	isoamylalcohol	-0.305072802433065
+488	isoamylalcohol	Salinicola_salarius	NA
+489	Marinilactibacillus_piezotolerans	acetic acid	-0.305029075270024
+490	acetic acid	Marinilactibacillus_piezotolerans	NA
+491	Halomonas_alkaliphila	ethanol	-0.303986074775108
+492	ethanol	Halomonas_alkaliphila	NA
+493	Salinicola_salarius	ethylhexanoate	-0.303965794843868
+494	ethylhexanoate	Salinicola_salarius	NA
+495	Levilactobacillus_namurensis	1-hexanol	-0.30392050557905
+496	1-hexanol	Levilactobacillus_namurensis	NA
+497	Halolactibacillus_alkaliphilus	trans-2-hepten-1-ol	-0.30331054128862
+498	trans-2-hepten-1-ol	Halolactibacillus_alkaliphilus	NA
+499	Leuconostoc_mesenteroides	1-hexanol	0.302924768186869
+500	1-hexanol	Leuconostoc_mesenteroides	NA
+501	Zunongwangia_profunda	ethylhexanoate	-0.302889516274501
+502	ethylhexanoate	Zunongwangia_profunda	NA
+503	Halomonas_hibernica	1-hexanol	-0.302371669609374
+504	1-hexanol	Halomonas_hibernica	NA
+505	Paucilactobacillus_suebicus	benzyl alcohol	-0.302352397384978
+506	benzyl alcohol	Paucilactobacillus_suebicus	NA
+507	Marinilactibacillus_psychrotolerans	cis-3-hexenylacetate	-0.302318729479129
+508	cis-3-hexenylacetate	Marinilactibacillus_psychrotolerans	NA
+509	Terasakiispira_papahanaumokuakeensis	ethylheptanoate	-0.30171484830797
+510	ethylheptanoate	Terasakiispira_papahanaumokuakeensis	NA
+511	Methylophaga_sulfidovorans	α-farnesene	-0.30167450877144
+512	α-farnesene	Methylophaga_sulfidovorans	NA
+513	Leuconostoc_mesenteroides	ethyloctanoate	0.301551659192217
+514	ethyloctanoate	Leuconostoc_mesenteroides	NA
+515	Alkalibacterium_olivapovliticus	ethylacetate	-0.301505721508439
+516	ethylacetate	Alkalibacterium_olivapovliticus	NA
+517	Lentilactobacillus_rapi	2-butanone	0.301425641980505
+518	2-butanone	Lentilactobacillus_rapi	NA
+519	Agrobacterium_tomkonis	ethanol	-0.301322020869102
+520	ethanol	Agrobacterium_tomkonis	NA
+521	Halolactibacillus_alkaliphilus	α-farnesene	-0.301131131312486
+522	α-farnesene	Halolactibacillus_alkaliphilus	NA
+523	Rhodobacteraceae_bacterium	2-pentanol	-0.30107079510799
+524	2-pentanol	Rhodobacteraceae_bacterium	NA
+525	Halolactibacillus_alkaliphilus	ethylacetate	-0.300691745137381
+526	ethylacetate	Halolactibacillus_alkaliphilus	NA
+527	Alkalibacterium_olivapovliticus	benzyl alcohol	-0.300607986547081
+528	benzyl alcohol	Alkalibacterium_olivapovliticus	NA
+529	Aerococcus_urinaeequi	isoamylacetate	-0.299915817327397
+530	isoamylacetate	Aerococcus_urinaeequi	NA
+531	Secundilactobacillus_collinoides	propanoic acid	0.299875967066688
+532	propanoic acid	Secundilactobacillus_collinoides	NA
+533	Zunongwangia_profunda	1-hexanol	-0.299764782374016
+534	1-hexanol	Zunongwangia_profunda	NA
+535	Secundilactobacillus_collinoides	acetic acid	0.299703838673878
+536	acetic acid	Secundilactobacillus_collinoides	NA
+537	Levilactobacillus_namurensis	isoamylalcohol	-0.299620491087907
+538	isoamylalcohol	Levilactobacillus_namurensis	NA
+539	Halomonas_titanicae	isoamylalcohol	-0.2994019546352
+540	isoamylalcohol	Halomonas_titanicae	NA
+541	Halomonas_hibernica	ethylhexanoate	-0.299253065651875
+542	ethylhexanoate	Halomonas_hibernica	NA
+543	Marinilactibacillus_psychrotolerans	2,3-butanediol	-0.298663681321637
+544	2,3-butanediol	Marinilactibacillus_psychrotolerans	NA
+545	Ligilactobacillus_acidipiscis	ethanol	-0.298354269761339
+546	ethanol	Ligilactobacillus_acidipiscis	NA
+547	Halolactibacillus_alkaliphilus	isoamylacetate	-0.298341512189083
+548	isoamylacetate	Halolactibacillus_alkaliphilus	NA
+549	Zunongwangia_profunda	octanal	-0.297720200825393
+550	octanal	Zunongwangia_profunda	NA
+551	Lentilactobacillus_parafarraginis	4-methoxyphenol	0.297517141825817
+552	4-methoxyphenol	Lentilactobacillus_parafarraginis	NA
+553	Salinicola_salarius	octanal	-0.297323696090559
+554	octanal	Salinicola_salarius	NA
+555	Paucilactobacillus_vaccinostercus	1-nonanol	-0.29718547975289
+556	1-nonanol	Paucilactobacillus_vaccinostercus	NA
+557	Halomonas_zhanjiangensis	ethanol	-0.296770702125874
+558	ethanol	Halomonas_zhanjiangensis	NA
+559	Alkalibacterium_thalassium	cis-3-hexenylacetate	-0.296717810004071
+560	cis-3-hexenylacetate	Alkalibacterium_thalassium	NA
+561	Paucilactobacillus_vaccinostercus	ethylphenol	0.296678134001708
+562	ethylphenol	Paucilactobacillus_vaccinostercus	NA
+563	Alkalibacterium_thalassium	ethylhydroxycinnamate	-0.296568857543199
+564	ethylhydroxycinnamate	Alkalibacterium_thalassium	NA
+565	Rhodobacteraceae_bacterium	isoamylacetate	-0.296518086408387
+566	isoamylacetate	Rhodobacteraceae_bacterium	NA
+567	Shewanella_dokdonensis	3-pentanol	-0.295751583944036
+568	3-pentanol	Shewanella_dokdonensis	NA
+569	Halolactibacillus_alkaliphilus	ethylheptanoate	-0.295492335256835
+570	ethylheptanoate	Halolactibacillus_alkaliphilus	NA
+571	Paucilactobacillus_wasatchensis	2-butanol	0.295472671540776
+572	2-butanol	Paucilactobacillus_wasatchensis	NA
+573	Rhodobacteraceae_bacterium	ethyloctanoate	-0.295324368312053
+574	ethyloctanoate	Rhodobacteraceae_bacterium	NA
+575	Levilactobacillus_namurensis	ethylhexanoate	-0.295250512326817
+576	ethylhexanoate	Levilactobacillus_namurensis	NA
+577	Marinilactibacillus_psychrotolerans	2-pentanol	-0.294661684576437
+578	2-pentanol	Marinilactibacillus_psychrotolerans	NA
+579	Mesonia_oceanica	isoamylalcohol	-0.294589279146582
+580	isoamylalcohol	Mesonia_oceanica	NA
+581	Marinilactibacillus_psychrotolerans	ethyl-2-methylbutanoate	-0.294508225908783
+582	ethyl-2-methylbutanoate	Marinilactibacillus_psychrotolerans	NA
+583	Levilactobacillus_namurensis	3-pentanol	-0.294418380238503
+584	3-pentanol	Levilactobacillus_namurensis	NA
+585	Achromobacter_mucicolens	ethylbutanoate	0.294286498914509
+586	ethylbutanoate	Achromobacter_mucicolens	NA
+587	Martelella_mediterranea	ethylhexanoate	-0.294137188064753
+588	ethylhexanoate	Martelella_mediterranea	NA
+589	Zunongwangia_profunda	α-farnesene	-0.293962256311334
+590	α-farnesene	Zunongwangia_profunda	NA
+591	Ancrocorticia_populi	1-hexanol	-0.293880255157813
+592	1-hexanol	Ancrocorticia_populi	NA
+593	Lentilactobacillus_rapi	isobutyric acid	0.293698726051528
+594	isobutyric acid	Lentilactobacillus_rapi	NA
+595	Shewanella_sp_C32	ethylhexanoate	-0.293545885286289
+596	ethylhexanoate	Shewanella_sp_C32	NA
+597	Marinilactibacillus_piezotolerans	2-phenylethanol	-0.293501187483292
+598	2-phenylethanol	Marinilactibacillus_piezotolerans	NA
+599	Alkalibacterium_thalassium	2-phenylethanol	-0.293463066761283
+600	2-phenylethanol	Alkalibacterium_thalassium	NA
+601	Altericroceibacterium_indicum	ethyloctanoate	-0.293332337399608
+602	ethyloctanoate	Altericroceibacterium_indicum	NA
+603	Altericroceibacterium_indicum	ethyl-2-methylbutanoate	-0.293207959350295
+604	ethyl-2-methylbutanoate	Altericroceibacterium_indicum	NA
+605	actinobacterium_LLX17	2,3-butanediol	-0.293053254572439
+606	2,3-butanediol	actinobacterium_LLX17	NA
+607	Halolactibacillus_alkaliphilus	3-pentanol	-0.292905563841513
+608	3-pentanol	Halolactibacillus_alkaliphilus	NA
+609	Haloquadratum_walsbyi	methylpropionate	-0.292892487344325
+610	methylpropionate	Haloquadratum_walsbyi	NA
+611	Paucilactobacillus_vaccinostercus	ethanol	-0.292884679231347
+612	ethanol	Paucilactobacillus_vaccinostercus	NA
+613	Candida_boidinii_group_2	methylpropionate	-0.292788824148475
+614	methylpropionate	Candida_boidinii_group_2	NA
+615	Lelliottia_amnigena	1-hexanol	0.292621801863918
+616	1-hexanol	Lelliottia_amnigena	NA
+617	Alkalibacterium_thalassium	isoamylalcohol	-0.292175478482484
+618	isoamylalcohol	Alkalibacterium_thalassium	NA
+619	Lentilactobacillus_parafarraginis	ethyl lactate	0.291906413627836
+620	ethyl lactate	Lentilactobacillus_parafarraginis	NA
+621	Leuconostoc_mesenteroides	ethanol	0.291838174855984
+622	ethanol	Leuconostoc_mesenteroides	NA
+623	Levilactobacillus_brevis	2-methyl-1-propanol	-0.29176352793721
+624	2-methyl-1-propanol	Levilactobacillus_brevis	NA
+625	Aerococcus_urinaeequi	ethylacetate	-0.291729812534857
+626	ethylacetate	Aerococcus_urinaeequi	NA
+627	Pediococcus_ethanolidurans	ethylheptanoate	-0.29148870105889
+628	ethylheptanoate	Pediococcus_ethanolidurans	NA
+629	Altericroceibacterium_indicum	ethylphenol	0.291435934010406
+630	ethylphenol	Altericroceibacterium_indicum	NA
+631	Aerococcus_urinaeequi	ethanol	-0.291375396601452
+632	ethanol	Aerococcus_urinaeequi	NA
+633	Halomonas_hibernica	ethanol	-0.291320055450078
+634	ethanol	Halomonas_hibernica	NA
+635	Shewanella_sp_C32	ethylphenol	0.291056117414218
+636	ethylphenol	Shewanella_sp_C32	NA
+637	Shewanella_sp_C32	isoamylalcohol	-0.290730881804212
+638	isoamylalcohol	Shewanella_sp_C32	NA
+639	Aerococcus_urinaeequi	2-phenylethanol	-0.290618670689588
+640	2-phenylethanol	Aerococcus_urinaeequi	NA
+641	Alkalibacterium_thalassium	benzyl alcohol	-0.290447401541626
+642	benzyl alcohol	Alkalibacterium_thalassium	NA
+643	Aerococcus_urinaeequi	propanoic acid	-0.290417329987105
+644	propanoic acid	Aerococcus_urinaeequi	NA
+645	Weissella_soli	ethyl lactate	0.29024878346595
+646	ethyl lactate	Weissella_soli	NA
+647	Zunongwangia_profunda	ethyl-2-methylbutanoate	-0.289868620340437
+648	ethyl-2-methylbutanoate	Zunongwangia_profunda	NA
+649	Halomonas_titanicae	ethanol	-0.289866464199302
+650	ethanol	Halomonas_titanicae	NA
+651	Marinilactibacillus_piezotolerans	ethyl-2-methylbutanoate	-0.289849630828672
+652	ethyl-2-methylbutanoate	Marinilactibacillus_piezotolerans	NA
+653	Achromobacter_mucicolens	1-propanol	0.289671147779818
+654	1-propanol	Achromobacter_mucicolens	NA
+655	Halolactibacillus_alkaliphilus	2,3-butanediol	-0.289517851516454
+656	2,3-butanediol	Halolactibacillus_alkaliphilus	NA
+657	Ligilactobacillus_acidipiscis	1-nonanol	-0.289245048635992
+658	1-nonanol	Ligilactobacillus_acidipiscis	NA
+659	Lentilactobacillus_parafarraginis	ethylhydroxycinnamate	0.289227332825221
+660	ethylhydroxycinnamate	Lentilactobacillus_parafarraginis	NA
+661	Alkalibacterium_pelagium	ethylhydroxycinnamate	-0.28870563257843
+662	ethylhydroxycinnamate	Alkalibacterium_pelagium	NA
+663	Levilactobacillus_senmaizukei	ethyl-3-methylbutanoate	-0.28830423352388
+664	ethyl-3-methylbutanoate	Levilactobacillus_senmaizukei	NA
+665	Alkalibacterium_pelagium	ethyl-3-methylbutanoate	-0.287858041795316
+666	ethyl-3-methylbutanoate	Alkalibacterium_pelagium	NA
+667	Alkalibacterium_olivapovliticus	1-hexanol	-0.287789643057731
+668	1-hexanol	Alkalibacterium_olivapovliticus	NA
+669	Levilactobacillus_senmaizukei	3-pentanol	-0.287688798797796
+670	3-pentanol	Levilactobacillus_senmaizukei	NA
+671	Achromobacter_mucicolens	ethyl-3-methylbutanoate	0.287415972423491
+672	ethyl-3-methylbutanoate	Achromobacter_mucicolens	NA
+673	Lentilactobacillus_kisonensis	methylacetate	0.286440811965431
+674	methylacetate	Lentilactobacillus_kisonensis	NA
+675	Shewanella_sp_C32	α-farnesene	-0.286337842591109
+676	α-farnesene	Shewanella_sp_C32	NA
+677	Halomonas_boliviensis	3-pentanol	-0.285716099163179
+678	3-pentanol	Halomonas_boliviensis	NA
+679	Levilactobacillus_namurensis	α-farnesene	-0.285645838603309
+680	α-farnesene	Levilactobacillus_namurensis	NA
+681	Lelliottia_amnigena	2-butanone	0.285235854715307
+682	2-butanone	Lelliottia_amnigena	NA
+683	Alkalibacterium_pelagium	2-methyl-1-propanol	-0.285091421498239
+684	2-methyl-1-propanol	Alkalibacterium_pelagium	NA
+685	Halomonas_zhanjiangensis	ethylacetate	-0.284618306846087
+686	ethylacetate	Halomonas_zhanjiangensis	NA
+687	Leifsonia_aquatica	ethanol	-0.284519105136587
+688	ethanol	Leifsonia_aquatica	NA
+689	Lentilactobacillus_kisonensis	2-phenylethanol	0.284304876236992
+690	2-phenylethanol	Lentilactobacillus_kisonensis	NA
+691	Ligilactobacillus_acidipiscis	ethyl lactate	-0.284214162589503
+692	ethyl lactate	Ligilactobacillus_acidipiscis	NA
+693	Altericroceibacterium_endophyticum	ethanol	-0.284148359300492
+694	ethanol	Altericroceibacterium_endophyticum	NA
+695	Leuconostoc_mesenteroides	2-butanone	0.28409052319353
+696	2-butanone	Leuconostoc_mesenteroides	NA
+697	Salinicola_lusitanus	ethylheptanoate	-0.284059824998012
+698	ethylheptanoate	Salinicola_lusitanus	NA
+699	Alkalibacterium_olivapovliticus	ethylhexanoate	-0.2840576577214
+700	ethylhexanoate	Alkalibacterium_olivapovliticus	NA
+701	Zunongwangia_profunda	hexanal	-0.284051256192701
+702	hexanal	Zunongwangia_profunda	NA
+703	Mesonia_oceanica	ethanol	-0.284036396006336
+704	ethanol	Mesonia_oceanica	NA
+705	Zunongwangia_profunda	ethyloctanoate	-0.283989553273903
+706	ethyloctanoate	Zunongwangia_profunda	NA
+707	Martelella_mediterranea	2-methyl-1-propanol	-0.283694162211277
+708	2-methyl-1-propanol	Martelella_mediterranea	NA
+709	Alkalibacterium_pelagium	2-phenylethanol	-0.283532051785792
+710	2-phenylethanol	Alkalibacterium_pelagium	NA
+711	Achromobacter_mucicolens	2,3-butanediol	0.283409333134818
+712	2,3-butanediol	Achromobacter_mucicolens	NA
+713	Salinicola_peritrichatus	3-pentanol	-0.283365860090655
+714	3-pentanol	Salinicola_peritrichatus	NA
+715	Ancrocorticia_populi	2-methyl-1-propanol	-0.283095390933464
+716	2-methyl-1-propanol	Ancrocorticia_populi	NA
+717	Alkalibacterium_olivapovliticus	2-phenylethanol	-0.283046814974208
+718	2-phenylethanol	Alkalibacterium_olivapovliticus	NA
+719	Zunongwangia_profunda	benzyl alcohol	-0.283018844520723
+720	benzyl alcohol	Zunongwangia_profunda	NA
+721	Lelliottia_amnigena	ethylhexanoate	0.28290698130128
+722	ethylhexanoate	Lelliottia_amnigena	NA
+723	Altericroceibacterium_indicum	3-pentanol	-0.282764105629796
+724	3-pentanol	Altericroceibacterium_indicum	NA
+725	Terasakiispira_papahanaumokuakeensis	isoamylalcohol	-0.282700466342248
+726	isoamylalcohol	Terasakiispira_papahanaumokuakeensis	NA
+727	Halomonas_titanicae	2-methyl-1-propanol	-0.282666469965736
+728	2-methyl-1-propanol	Halomonas_titanicae	NA
+729	Agrobacterium_tomkonis	ethyl-3-methylbutanoate	-0.282098722814624
+730	ethyl-3-methylbutanoate	Agrobacterium_tomkonis	NA
+731	Alkalibacterium_pelagium	cis-3-hexenylacetate	-0.281863978396682
+732	cis-3-hexenylacetate	Alkalibacterium_pelagium	NA
+733	Paucilactobacillus_vaccinostercus	ethyl-2-methylbutanoate	-0.281784840970309
+734	ethyl-2-methylbutanoate	Paucilactobacillus_vaccinostercus	NA
+735	Alkalibacterium_olivapovliticus	2-pentanol	-0.28163685938784
+736	2-pentanol	Alkalibacterium_olivapovliticus	NA
+737	Halomonas_hibernica	α-farnesene	-0.281468521364431
+738	α-farnesene	Halomonas_hibernica	NA
+739	Alkalibacterium_thalassium	ethyl-3-methylbutanoate	-0.281320783093522
+740	ethyl-3-methylbutanoate	Alkalibacterium_thalassium	NA
+741	Lentilactobacillus_parafarraginis	butanoic acid	0.281258987408165
+742	butanoic acid	Lentilactobacillus_parafarraginis	NA
+743	Levilactobacillus_namurensis	2,3-butanediol	-0.281230916703557
+744	2,3-butanediol	Levilactobacillus_namurensis	NA
+745	Lentilactobacillus_buchneri	butanoic acid	0.281216563892134
+746	butanoic acid	Lentilactobacillus_buchneri	NA
+747	Ancrocorticia_populi	isoamylalcohol	-0.281209629789202
+748	isoamylalcohol	Ancrocorticia_populi	NA
+749	Pediococcus_ethanolidurans	ethylacetate	-0.280944104951343
+750	ethylacetate	Pediococcus_ethanolidurans	NA
+751	Alkalibacterium_olivapovliticus	ethyl-3-methylbutanoate	-0.280898477213777
+752	ethyl-3-methylbutanoate	Alkalibacterium_olivapovliticus	NA
+753	Ancrocorticia_populi	ethanol	-0.280886600734476
+754	ethanol	Ancrocorticia_populi	NA
+755	Martelella_mediterranea	octanal	-0.280808848607303
+756	octanal	Martelella_mediterranea	NA
+757	Lactiplantibacillus_plajomi	octanal	-0.28025305254812
+758	octanal	Lactiplantibacillus_plajomi	NA
+759	Pichia_kudriavzevii	ethylhexanoate	-0.280204765478261
+760	ethylhexanoate	Pichia_kudriavzevii	NA
+761	Halomonas_hibernica	2-methyl-1-propanol	-0.28013472292174
+762	2-methyl-1-propanol	Halomonas_hibernica	NA
+763	Lentilactobacillus_rapi	benzyl alcohol	0.280081001154812
+764	benzyl alcohol	Lentilactobacillus_rapi	NA
+765	Actinomyces_SGB33761	isoamylalcohol	-0.280025750275584
+766	isoamylalcohol	Actinomyces_SGB33761	NA
+767	Pediococcus_ethanolidurans	cis-3-hexenylacetate	-0.279686727880335
+768	cis-3-hexenylacetate	Pediococcus_ethanolidurans	NA
+769	Pichia_membranifaciens_group_1	ethyl-2-methylbutanoate	0.278768647903915
+770	ethyl-2-methylbutanoate	Pichia_membranifaciens_group_1	NA
+771	Paucilactobacillus_vaccinostercus	1-hexanol	-0.278758514270146
+772	1-hexanol	Paucilactobacillus_vaccinostercus	NA
+773	Lelliottia_amnigena	1-butanol	0.278724655734853
+774	1-butanol	Lelliottia_amnigena	NA
+775	Terasakiispira_papahanaumokuakeensis	benzyl alcohol	-0.278465359117083
+776	benzyl alcohol	Terasakiispira_papahanaumokuakeensis	NA
+777	Levilactobacillus_namurensis	ethyl lactate	-0.278447681153113
+778	ethyl lactate	Levilactobacillus_namurensis	NA
+779	Altericroceibacterium_indicum	2-pentanol	-0.278328120708914
+780	2-pentanol	Altericroceibacterium_indicum	NA
+781	Leuconostoc_suionicum	benzyl alcohol	0.277883197984102
+782	benzyl alcohol	Leuconostoc_suionicum	NA
+783	Methylophaga_sulfidovorans	ethylheptanoate	-0.277777145074031
+784	ethylheptanoate	Methylophaga_sulfidovorans	NA
+785	Lentilactobacillus_kisonensis	benzylacetate	0.27769481228397
+786	benzylacetate	Lentilactobacillus_kisonensis	NA
+787	Zunongwangia_profunda	ethylheptanoate	-0.277601888105138
+788	ethylheptanoate	Zunongwangia_profunda	NA
+789	Vibrio_sp_H11	ethanol	-0.277394076936273
+790	ethanol	Vibrio_sp_H11	NA
+791	Ligilactobacillus_acidipiscis	ethylhexanoate	-0.277210086535198
+792	ethylhexanoate	Ligilactobacillus_acidipiscis	NA
+793	Rhodobacteraceae_bacterium	nonanoic acid	-0.277068914575358
+794	nonanoic acid	Rhodobacteraceae_bacterium	NA
+795	Pichia_kudriavzevii	isoamylalcohol	-0.277018868970911
+796	isoamylalcohol	Pichia_kudriavzevii	NA
+797	Halomonas_zhanjiangensis	isoamylalcohol	-0.276952592344427
+798	isoamylalcohol	Halomonas_zhanjiangensis	NA
+799	Marinilactibacillus_piezotolerans	benzyl alcohol	-0.276593618729419
+800	benzyl alcohol	Marinilactibacillus_piezotolerans	NA
+801	Lentilactobacillus_kisonensis	1-butanol	0.276338165223936
+802	1-butanol	Lentilactobacillus_kisonensis	NA
+803	Rhodobacteraceae_bacterium	methylacetate	-0.276123700208421
+804	methylacetate	Rhodobacteraceae_bacterium	NA
+805	Lelliottia_amnigena	octanoic acid	0.276118256889643
+806	octanoic acid	Lelliottia_amnigena	NA
+807	Pichia_manshurica	ethylhexanoate	0.276115485829727
+808	ethylhexanoate	Pichia_manshurica	NA
+809	Marinilactibacillus_piezotolerans	4-methoxyphenol	-0.276060052111665
+810	4-methoxyphenol	Marinilactibacillus_piezotolerans	NA
+811	Agrobacterium_tomkonis	isoamylalcohol	-0.275668651575627
+812	isoamylalcohol	Agrobacterium_tomkonis	NA
+813	Halomonas_boliviensis	1-hexanol	-0.275549056332505
+814	1-hexanol	Halomonas_boliviensis	NA
+815	Achromobacter_mucicolens	cis-3-hexenylacetate	0.275542073357523
+816	cis-3-hexenylacetate	Achromobacter_mucicolens	NA
+817	Levilactobacillus_brevis	isoamylalcohol	-0.275489233365593
+818	isoamylalcohol	Levilactobacillus_brevis	NA
+819	Shewanella_sp_C32	2-methyl-1-propanol	-0.275480209160907
+820	2-methyl-1-propanol	Shewanella_sp_C32	NA
+821	Lentilactobacillus_kisonensis	ethanol	0.275390222328476
+822	ethanol	Lentilactobacillus_kisonensis	NA
+823	Pediococcus_ethanolidurans	isoamylalcohol	-0.275333840031336
+824	isoamylalcohol	Pediococcus_ethanolidurans	NA
+825	Alkalibacterium_thalassium	ethyl-2-methylbutanoate	-0.275256321631595
+826	ethyl-2-methylbutanoate	Alkalibacterium_thalassium	NA
+827	Halomonas_hibernica	isoamylalcohol	-0.274875887680401
+828	isoamylalcohol	Halomonas_hibernica	NA
+829	Lacticaseibacillus_paracasei	methylpropionate	0.274855030729507
+830	methylpropionate	Lacticaseibacillus_paracasei	NA
+831	Lactiplantibacillus_pentosus	ethylphenol	0.274810599709987
+832	ethylphenol	Lactiplantibacillus_pentosus	NA
+833	Leuconostoc_mesenteroides	octanoic acid	0.27462206264219
+834	octanoic acid	Leuconostoc_mesenteroides	NA
+835	Martelella_mediterranea	α-farnesene	-0.274498957030587
+836	α-farnesene	Martelella_mediterranea	NA
+837	Alcanivorax_gelatiniphagus	3-pentanol	-0.274045079834938
+838	3-pentanol	Alcanivorax_gelatiniphagus	NA
+839	Aerococcus_urinaeequi	ethylhexanoate	-0.273952377319005
+840	ethylhexanoate	Aerococcus_urinaeequi	NA
+841	Pediococcus_parvulus	isovaleric acid	0.273726060068492
+842	isovaleric acid	Pediococcus_parvulus	NA
+843	Leuconostoc_mesenteroides	ethyl-3-methylbutanoate	0.273287294133061
+844	ethyl-3-methylbutanoate	Leuconostoc_mesenteroides	NA
+845	Zunongwangia_profunda	ethyl-3-methylbutanoate	-0.273034634594697
+846	ethyl-3-methylbutanoate	Zunongwangia_profunda	NA
+847	Lelliottia_amnigena	ethyl-3-methylbutanoate	0.272672071159126
+848	ethyl-3-methylbutanoate	Lelliottia_amnigena	NA
+849	Lelliottia_amnigena	phenol	0.272483469583509
+850	phenol	Lelliottia_amnigena	NA
+851	Levilactobacillus_senmaizukei	benzyl alcohol	-0.27221434547317
+852	benzyl alcohol	Levilactobacillus_senmaizukei	NA
+853	Altericroceibacterium_indicum	2-methyl-1-propanol	-0.272017225804566
+854	2-methyl-1-propanol	Altericroceibacterium_indicum	NA
+855	Terasakiispira_papahanaumokuakeensis	octanal	-0.271849626807252
+856	octanal	Terasakiispira_papahanaumokuakeensis	NA
+857	Actinomyces_SGB33761	benzyl alcohol	-0.271841274444834
+858	benzyl alcohol	Actinomyces_SGB33761	NA
+859	Levilactobacillus_namurensis	ethylbutanoate	-0.271823979453796
+860	ethylbutanoate	Levilactobacillus_namurensis	NA
+861	Secundilactobacillus_collinoides	1-propanol	0.271552227021199
+862	1-propanol	Secundilactobacillus_collinoides	NA
+863	Weissella_soli	benzyl alcohol	0.271542043786638
+864	benzyl alcohol	Weissella_soli	NA
+865	Vibrio_sp_H11	3-pentanol	-0.27144718833277
+866	3-pentanol	Vibrio_sp_H11	NA
+867	Altericroceibacterium_indicum	ethylacetate	-0.271276698585048
+868	ethylacetate	Altericroceibacterium_indicum	NA
+869	Alkalibacterium_olivapovliticus	ethyl lactate	-0.271273779316577
+870	ethyl lactate	Alkalibacterium_olivapovliticus	NA
+871	Halolactibacillus_alkaliphilus	ethyl-3-methylbutanoate	-0.271209344815009
+872	ethyl-3-methylbutanoate	Halolactibacillus_alkaliphilus	NA
+873	Actinomyces_SGB33761	1-nonanol	-0.270875161000913
+874	1-nonanol	Actinomyces_SGB33761	NA
+875	Martelella_mediterranea	isoamylalcohol	-0.270830071990305
+876	isoamylalcohol	Martelella_mediterranea	NA
+877	Alkalibacterium_olivapovliticus	hexanal	-0.270745800274151
+878	hexanal	Alkalibacterium_olivapovliticus	NA
+879	Terasakiispira_papahanaumokuakeensis	2-methyl-1-propanol	-0.270734090074671
+880	2-methyl-1-propanol	Terasakiispira_papahanaumokuakeensis	NA
+881	Halolactibacillus_alkaliphilus	ethylhydroxycinnamate	-0.270668295869011
+882	ethylhydroxycinnamate	Halolactibacillus_alkaliphilus	NA
+883	Marinilactibacillus_piezotolerans	ethylhydroxycinnamate	-0.270660574181432
+884	ethylhydroxycinnamate	Marinilactibacillus_piezotolerans	NA
+885	Pichia_kudriavzevii	1-butanol	-0.270256245753453
+886	1-butanol	Pichia_kudriavzevii	NA
+887	Shewanella_dokdonensis	ethanol	-0.270113685520975
+888	ethanol	Shewanella_dokdonensis	NA
+889	Aerococcus_urinaeequi	2-pentanol	-0.270071444438156
+890	2-pentanol	Aerococcus_urinaeequi	NA
+891	Rhodobacteraceae_bacterium	2-phenylethanol	-0.270022320372362
+892	2-phenylethanol	Rhodobacteraceae_bacterium	NA
+893	Pseudooceanicola_marinus	3-pentanol	-0.269879727182191
+894	3-pentanol	Pseudooceanicola_marinus	NA
+895	Rhodobacteraceae_bacterium	ethyl lactate	-0.269809373883395
+896	ethyl lactate	Rhodobacteraceae_bacterium	NA
+897	Halomonas_alkaliphila	3-pentanol	-0.269783152183096
+898	3-pentanol	Halomonas_alkaliphila	NA
+899	Aerococcus_urinaeequi	ethyl-3-methylbutanoate	-0.269585510499622
+900	ethyl-3-methylbutanoate	Aerococcus_urinaeequi	NA
+901	Pediococcus_ethanolidurans	trans-2-hepten-1-ol	-0.269499860577898
+902	trans-2-hepten-1-ol	Pediococcus_ethanolidurans	NA
+903	Salinibacter_ruber	ethyl-3-methylbutanoate	-0.269311408815447
+904	ethyl-3-methylbutanoate	Salinibacter_ruber	NA
+905	Levilactobacillus_namurensis	ethylacetate	-0.26901307624902
+906	ethylacetate	Levilactobacillus_namurensis	NA
+907	Ligilactobacillus_acidipiscis	ethyl-3-methylbutanoate	-0.268982186253379
+908	ethyl-3-methylbutanoate	Ligilactobacillus_acidipiscis	NA
+909	Achromobacter_mucicolens	benzyl alcohol	0.268965148082789
+910	benzyl alcohol	Achromobacter_mucicolens	NA
+911	Salinibacter_ruber	methylpropionate	-0.268866362136222
+912	methylpropionate	Salinibacter_ruber	NA
+913	Marinilactibacillus_psychrotolerans	1-propanol	-0.268826654102547
+914	1-propanol	Marinilactibacillus_psychrotolerans	NA
+915	Pichia_membranifaciens_group_1	ethyl lactate	0.26861372013938
+916	ethyl lactate	Pichia_membranifaciens_group_1	NA
+917	Marinilactibacillus_psychrotolerans	hexanal	-0.268524598899543
+918	hexanal	Marinilactibacillus_psychrotolerans	NA
+919	Altericroceibacterium_indicum	1-nonanol	-0.268522249681507
+920	1-nonanol	Altericroceibacterium_indicum	NA
+921	Rhodobacteraceae_bacterium	2,3-butanediol	-0.268336019743765
+922	2,3-butanediol	Rhodobacteraceae_bacterium	NA
+923	Achromobacter_mucicolens	ethanol	0.268135156527374
+924	ethanol	Achromobacter_mucicolens	NA
+925	Halomonas_boliviensis	1-butanol	-0.268030196575058
+926	1-butanol	Halomonas_boliviensis	NA
+927	Alkalibacterium_olivapovliticus	propanoic acid	-0.267957477510248
+928	propanoic acid	Alkalibacterium_olivapovliticus	NA
+929	Leuconostoc_mesenteroides	isovaleric acid	0.267900734186794
+930	isovaleric acid	Leuconostoc_mesenteroides	NA
+931	Ancrocorticia_populi	ethyl lactate	-0.267873788693117
+932	ethyl lactate	Ancrocorticia_populi	NA
+933	Lelliottia_amnigena	ethylacetate	0.267666649799741
+934	ethylacetate	Lelliottia_amnigena	NA
+935	Halomonas_sp_FME20	2-methyl-1-propanol	-0.267642712507098
+936	2-methyl-1-propanol	Halomonas_sp_FME20	NA
+937	Alcanivorax_gelatiniphagus	isoamylalcohol	-0.267465621829075
+938	isoamylalcohol	Alcanivorax_gelatiniphagus	NA
+939	Methylophaga_sulfidovorans	ethanol	-0.267453006224813
+940	ethanol	Methylophaga_sulfidovorans	NA
+941	Pediococcus_parvulus	benzylacetate	0.267397294161158
+942	benzylacetate	Pediococcus_parvulus	NA
+943	Marinilactibacillus_piezotolerans	cis-3-hexenylacetate	-0.267236271035864
+944	cis-3-hexenylacetate	Marinilactibacillus_piezotolerans	NA
+945	Alkalibacterium_olivapovliticus	1-butanol	-0.267026555506603
+946	1-butanol	Alkalibacterium_olivapovliticus	NA
+947	Alkalibacterium_thalassium	ethyloctanoate	-0.266905315850249
+948	ethyloctanoate	Alkalibacterium_thalassium	NA
+949	Mycolicibacterium_llatzerense	methyloctanoate	-0.266895596453328
+950	methyloctanoate	Mycolicibacterium_llatzerense	NA
+951	Halomonas_zhanjiangensis	ethyl-3-methylbutanoate	-0.266803489084327
+952	ethyl-3-methylbutanoate	Halomonas_zhanjiangensis	NA
+953	Lentilactobacillus_kisonensis	isoamylacetate	0.266649045161708
+954	isoamylacetate	Lentilactobacillus_kisonensis	NA
+955	Pediococcus_ethanolidurans	1-nonanol	-0.266499351574554
+956	1-nonanol	Pediococcus_ethanolidurans	NA
+957	Halomonas_boliviensis	ethyloctanoate	-0.266357361398265
+958	ethyloctanoate	Halomonas_boliviensis	NA
+959	Shewanella_sp_C32	2-phenylethanol	-0.266190611566928
+960	2-phenylethanol	Shewanella_sp_C32	NA
+961	Alkalibacterium_pelagium	1-hexanol	-0.266095905547845
+962	1-hexanol	Alkalibacterium_pelagium	NA
+963	Levilactobacillus_namurensis	1-butanol	-0.266088618074739
+964	1-butanol	Levilactobacillus_namurensis	NA
+965	Lentilactobacillus_buchneri	ethyl lactate	0.265721592411875
+966	ethyl lactate	Lentilactobacillus_buchneri	NA
+967	Pediococcus_ethanolidurans	methylacetate	-0.265676501305661
+968	methylacetate	Pediococcus_ethanolidurans	NA
+969	Paucilactobacillus_vaccinostercus	3-pentanol	-0.265431842076839
+970	3-pentanol	Paucilactobacillus_vaccinostercus	NA
+971	Loigolactobacillus_coryniformis	ethylphenol	0.265421475232969
+972	ethylphenol	Loigolactobacillus_coryniformis	NA
+973	Alkalibacterium_thalassium	acetic acid	-0.265358386038595
+974	acetic acid	Alkalibacterium_thalassium	NA
+975	Ancrocorticia_populi	trans-2-hepten-1-ol	-0.265333199982565
+976	trans-2-hepten-1-ol	Ancrocorticia_populi	NA
+977	Altericroceibacterium_indicum	ethylhexanoate	-0.265332069011255
+978	ethylhexanoate	Altericroceibacterium_indicum	NA
+979	Halolactibacillus_alkaliphilus	2-methyl-1-propanol	-0.265310331310395
+980	2-methyl-1-propanol	Halolactibacillus_alkaliphilus	NA
+981	Pediococcus_parvulus	ethyl-2-methylbutanoate	0.265188603391773
+982	ethyl-2-methylbutanoate	Pediococcus_parvulus	NA
+983	Achromobacter_mucicolens	ethyl lactate	0.265038649570632
+984	ethyl lactate	Achromobacter_mucicolens	NA
+985	Leuconostoc_suionicum	2,3-butanediol	0.264925336068821
+986	2,3-butanediol	Leuconostoc_suionicum	NA
+987	Lentilactobacillus_kisonensis	ethylhexanoate	0.264772268365526
+988	ethylhexanoate	Lentilactobacillus_kisonensis	NA
+989	Candida_boidinii_group_1	4-methoxyphenol	-0.264592193629946
+990	4-methoxyphenol	Candida_boidinii_group_1	NA
+991	Lentilactobacillus_rapi	2,3-butanediol	0.264553886899437
+992	2,3-butanediol	Lentilactobacillus_rapi	NA
+993	Agrobacterium_tomkonis	2,3-butanediol	-0.264548573392543
+994	2,3-butanediol	Agrobacterium_tomkonis	NA
+995	Halomonas_boliviensis	ethyl lactate	-0.264509796435841
+996	ethyl lactate	Halomonas_boliviensis	NA
+997	Leucobacter_sp_Psy1	2-methyl-1-propanol	-0.264331821071503
+998	2-methyl-1-propanol	Leucobacter_sp_Psy1	NA
+999	Alkalibacterium_olivapovliticus	hexanoic acid	-0.264231474983849
+1000	hexanoic acid	Alkalibacterium_olivapovliticus	NA
+1001	Martelella_mediterranea	benzyl alcohol	-0.264074672457358
+1002	benzyl alcohol	Martelella_mediterranea	NA
+1003	Halomonas_boliviensis	1-nonanol	-0.264030692158589
+1004	1-nonanol	Halomonas_boliviensis	NA
+1005	Secundilactobacillus_collinoides	4-methoxyphenol	0.263688712168085
+1006	4-methoxyphenol	Secundilactobacillus_collinoides	NA
+1007	Salinicola_lusitanus	3-pentanol	-0.263631259558371
+1008	3-pentanol	Salinicola_lusitanus	NA
+1009	Leuconostoc_mesenteroides	ethylhexanoate	0.263616300647169
+1010	ethylhexanoate	Leuconostoc_mesenteroides	NA
+1011	Pichia_membranifaciens_group_1	ethylbutanoate	0.263584964632745
+1012	ethylbutanoate	Pichia_membranifaciens_group_1	NA
+1013	Shewanella_dokdonensis	2,3-butanediol	-0.263153773214633
+1014	2,3-butanediol	Shewanella_dokdonensis	NA
+1015	Halomonas_boliviensis	ethyl-2-methylbutanoate	-0.263125183890441
+1016	ethyl-2-methylbutanoate	Halomonas_boliviensis	NA
+1017	Marinilactibacillus_psychrotolerans	octanal	-0.263098468505221
+1018	octanal	Marinilactibacillus_psychrotolerans	NA
+1019	Salinicola_lusitanus	octanal	-0.26296896797627
+1020	octanal	Salinicola_lusitanus	NA
+1021	Levilactobacillus_namurensis	2-butanone	-0.262880174247385
+1022	2-butanone	Levilactobacillus_namurensis	NA
+1023	Lelliottia_amnigena	benzylacetate	0.262852121071252
+1024	benzylacetate	Lelliottia_amnigena	NA
+1025	Achromobacter_mucicolens	2-phenylethanol	0.262835979673568
+1026	2-phenylethanol	Achromobacter_mucicolens	NA
+1027	Mesonia_oceanica	3-pentanol	-0.262769880872859
+1028	3-pentanol	Mesonia_oceanica	NA
+1029	Halolactibacillus_alkaliphilus	methylacetate	-0.262732489585981
+1030	methylacetate	Halolactibacillus_alkaliphilus	NA
+1031	Halomonas_boliviensis	2-pentanol	-0.262723967545303
+1032	2-pentanol	Halomonas_boliviensis	NA
+1033	Aerococcus_urinaeequi	isoamylalcohol	-0.262703230015629
+1034	isoamylalcohol	Aerococcus_urinaeequi	NA
+1035	Idiomarina_loihiensis	octanal	-0.262679929479363
+1036	octanal	Idiomarina_loihiensis	NA
+1037	Altericroceibacterium_endophyticum	benzyl alcohol	-0.262528102815628
+1038	benzyl alcohol	Altericroceibacterium_endophyticum	NA
+1039	Altericroceibacterium_indicum	ethyl lactate	-0.262499746211639
+1040	ethyl lactate	Altericroceibacterium_indicum	NA
+1041	Lentilactobacillus_buchneri	isobutyric acid	0.26249707648083
+1042	isobutyric acid	Lentilactobacillus_buchneri	NA
+1043	Achromobacter_mucicolens	ethylhexanoate	0.262467660675664
+1044	ethylhexanoate	Achromobacter_mucicolens	NA
+1045	Halomonas_boliviensis	ethylacetate	-0.262199439903243
+1046	ethylacetate	Halomonas_boliviensis	NA
+1047	Idiomarina_loihiensis	ethylhexanoate	-0.262132661603071
+1048	ethylhexanoate	Idiomarina_loihiensis	NA
+1049	Aerococcus_urinaeequi	isovaleric acid	-0.261946690096078
+1050	isovaleric acid	Aerococcus_urinaeequi	NA
+1051	Ancrocorticia_populi	ethylhexanoate	-0.2619436701262
+1052	ethylhexanoate	Ancrocorticia_populi	NA
+1053	Pichia_kudriavzevii	1-nonanol	-0.261862584481021
+1054	1-nonanol	Pichia_kudriavzevii	NA
+1055	Acidipropionibacterium_acidipropionici	3-pentanol	-0.261331424457619
+1056	3-pentanol	Acidipropionibacterium_acidipropionici	NA
+1057	Erwinia_billingiae	phenol	0.261325036794012
+1058	phenol	Erwinia_billingiae	NA
+1059	Aerococcus_urinaeequi	hexanoic acid	-0.261077822281692
+1060	hexanoic acid	Aerococcus_urinaeequi	NA
+1061	Leuconostoc_suionicum	cis-3-hexenylacetate	0.261003825369635
+1062	cis-3-hexenylacetate	Leuconostoc_suionicum	NA
+1063	Idiomarina_loihiensis	2-methyl-1-propanol	-0.260892837420178
+1064	2-methyl-1-propanol	Idiomarina_loihiensis	NA
+1065	Levilactobacillus_senmaizukei	2-pentanol	-0.260885768481507
+1066	2-pentanol	Levilactobacillus_senmaizukei	NA
+1067	Salinibacter_ruber	ethanol	-0.260826100499094
+1068	ethanol	Salinibacter_ruber	NA
+1069	Pichia_manshurica	ethyl-3-methylbutanoate	0.260621652603658
+1070	ethyl-3-methylbutanoate	Pichia_manshurica	NA
+1071	Paucilactobacillus_vaccinostercus	4-methoxyphenol	-0.260511316132708
+1072	4-methoxyphenol	Paucilactobacillus_vaccinostercus	NA
+1073	Lelliottia_amnigena	benzyl alcohol	0.260254022236248
+1074	benzyl alcohol	Lelliottia_amnigena	NA
+1075	Lelliottia_amnigena	ethyloctanoate	0.260138658058819
+1076	ethyloctanoate	Lelliottia_amnigena	NA
+1077	Mesonia_hippocampi	octanal	-0.260071902433559
+1078	octanal	Mesonia_hippocampi	NA
+1079	Zunongwangia_profunda	1-nonanol	-0.259753667389312
+1080	1-nonanol	Zunongwangia_profunda	NA
+1081	Pichia_membranifaciens_group_1	propanoic acid	0.259722480408961
+1082	propanoic acid	Pichia_membranifaciens_group_1	NA
+1083	Haloquadratum_walsbyi	1-butanol	-0.259658932187367
+1084	1-butanol	Haloquadratum_walsbyi	NA
+1085	Sporolactobacillus_nakayamae	ethylhexanoate	-0.25959624358685
+1086	ethylhexanoate	Sporolactobacillus_nakayamae	NA
+1087	Salinicola_salarius	ethyl-3-methylbutanoate	-0.259539310835025
+1088	ethyl-3-methylbutanoate	Salinicola_salarius	NA
+1089	Levilactobacillus_senmaizukei	2-methyl-1-propanol	-0.259409060309665
+1090	2-methyl-1-propanol	Levilactobacillus_senmaizukei	NA
+1091	Marinilactibacillus_piezotolerans	phenol	-0.259325075711518
+1092	phenol	Marinilactibacillus_piezotolerans	NA
+1093	Salinibacter_ruber	cis-3-hexen-1-ol	-0.259185659159752
+1094	cis-3-hexen-1-ol	Salinibacter_ruber	NA
+1095	Paucilactobacillus_vaccinostercus	isoamylacetate	-0.258889129911624
+1096	isoamylacetate	Paucilactobacillus_vaccinostercus	NA
+1097	Arcobacter_sp_CECT_8985	4-methoxyphenol	-0.258759836039549
+1098	4-methoxyphenol	Arcobacter_sp_CECT_8985	NA
+1099	Lelliottia_amnigena	ethyl lactate	0.258699313833417
+1100	ethyl lactate	Lelliottia_amnigena	NA
+1101	Marinilactibacillus_piezotolerans	propanoic acid	-0.258597331253956
+1102	propanoic acid	Marinilactibacillus_piezotolerans	NA
+1103	Haloquadratum_walsbyi	ethyl-3-methylbutanoate	-0.258515689327645
+1104	ethyl-3-methylbutanoate	Haloquadratum_walsbyi	NA
+1105	Haloquadratum_walsbyi	ethanol	-0.258465702197497
+1106	ethanol	Haloquadratum_walsbyi	NA
+1107	Halomonas_hibernica	1-butanol	-0.258427579945391
+1108	1-butanol	Halomonas_hibernica	NA
+1109	Altericroceibacterium_indicum	isoamylacetate	-0.258416366648222
+1110	isoamylacetate	Altericroceibacterium_indicum	NA
+1111	Vibrio_sp_H11	ethylacetate	-0.258308072578286
+1112	ethylacetate	Vibrio_sp_H11	NA
+1113	Actinomyces_SGB33761	hexanal	-0.258248194603857
+1114	hexanal	Actinomyces_SGB33761	NA
+1115	Mesonia_oceanica	ethylphenol	0.258148635555368
+1116	ethylphenol	Mesonia_oceanica	NA
+1117	Lentilactobacillus_parafarraginis	benzylacetate	0.258019535373533
+1118	benzylacetate	Lentilactobacillus_parafarraginis	NA
+1119	Pediococcus_ethanolidurans	benzylacetate	-0.257981145386377
+1120	benzylacetate	Pediococcus_ethanolidurans	NA
+1121	Mesonia_oceanica	2-methyl-1-propanol	-0.257873091768757
+1122	2-methyl-1-propanol	Mesonia_oceanica	NA
+1123	Altericroceibacterium_indicum	hexanal	-0.257771707144823
+1124	hexanal	Altericroceibacterium_indicum	NA
+1125	Marinilactibacillus_piezotolerans	3-pentanol	-0.257703211190983
+1126	3-pentanol	Marinilactibacillus_piezotolerans	NA
+1127	Lentilactobacillus_parafarraginis	benzyl alcohol	0.257667433589973
+1128	benzyl alcohol	Lentilactobacillus_parafarraginis	NA
+1129	Alkalibacterium_thalassium	benzylacetate	-0.25759306691627
+1130	benzylacetate	Alkalibacterium_thalassium	NA
+1131	Halomonas_sp_FME20	ethanol	-0.257186893595341
+1132	ethanol	Halomonas_sp_FME20	NA
+1133	Lelliottia_amnigena	2-butanol	0.257158486755613
+1134	2-butanol	Lelliottia_amnigena	NA
+1135	Secundilactobacillus_collinoides	ethylbutanoate	0.257012151782984
+1136	ethylbutanoate	Secundilactobacillus_collinoides	NA
+1137	Alkalibacterium_olivapovliticus	2-methyl-1-propanol	-0.256994914455649
+1138	2-methyl-1-propanol	Alkalibacterium_olivapovliticus	NA
+1139	Ancrocorticia_populi	ethylcinnamate	-0.25697285728846
+1140	ethylcinnamate	Ancrocorticia_populi	NA
+1141	Lentilactobacillus_rapi	ethylhydroxycinnamate	0.256864719968015
+1142	ethylhydroxycinnamate	Lentilactobacillus_rapi	NA
+1143	Paucilactobacillus_wasatchensis	methylpropionate	0.256846112885012
+1144	methylpropionate	Paucilactobacillus_wasatchensis	NA
+1145	Enterococcus_sp_RIT_PI_f	octanal	-0.256637415353564
+1146	octanal	Enterococcus_sp_RIT_PI_f	NA
+1147	Halomonas_hibernica	4-methoxyphenol	-0.256577592028187
+1148	4-methoxyphenol	Halomonas_hibernica	NA
+1149	Mesonia_oceanica	α-farnesene	-0.256576120400694
+1150	α-farnesene	Mesonia_oceanica	NA
+1151	Debaryomyces_hansenii_group_1	α-farnesene	-0.256469739942575
+1152	α-farnesene	Debaryomyces_hansenii_group_1	NA
+1153	Acidipropionibacterium_acidipropionici	2-butanol	-0.256418379195953
+1154	2-butanol	Acidipropionibacterium_acidipropionici	NA
+1155	Lelliottia_amnigena	ethyl-2-methylbutanoate	0.256236158238935
+1156	ethyl-2-methylbutanoate	Lelliottia_amnigena	NA
+1157	Altericroceibacterium_indicum	ethyl-3-methylbutanoate	-0.256136154626566
+1158	ethyl-3-methylbutanoate	Altericroceibacterium_indicum	NA
+1159	Lentilactobacillus_rapi	α-farnesene	0.256111368828425
+1160	α-farnesene	Lentilactobacillus_rapi	NA
+1161	Candida_boidinii_group_1	propanoic acid	-0.256053730294604
+1162	propanoic acid	Candida_boidinii_group_1	NA
+1163	Aerococcus_urinaeequi	methylacetate	-0.256010433733071
+1164	methylacetate	Aerococcus_urinaeequi	NA
+1165	Halomonas_sp_FME20	isoamylalcohol	-0.25573216132824
+1166	isoamylalcohol	Halomonas_sp_FME20	NA
+1167	Sporolactobacillus_inulinus	ethylhexanoate	-0.255586839787664
+1168	ethylhexanoate	Sporolactobacillus_inulinus	NA
+1169	Halolactibacillus_alkaliphilus	hexanal	-0.255584124507172
+1170	hexanal	Halolactibacillus_alkaliphilus	NA
+1171	Brevibacterium_linens	isoamylalcohol	-0.25557518996755
+1172	isoamylalcohol	Brevibacterium_linens	NA
+1173	Pichia_membranifaciens_group_1	4-methoxyphenol	0.25552439702447
+1174	4-methoxyphenol	Pichia_membranifaciens_group_1	NA
+1175	Altericroceibacterium_endophyticum	isoamylalcohol	-0.255442012730872
+1176	isoamylalcohol	Altericroceibacterium_endophyticum	NA
+1177	Alkalibacterium_thalassium	isobutyric acid	-0.255320111777778
+1178	isobutyric acid	Alkalibacterium_thalassium	NA
+1179	Levilactobacillus_senmaizukei	ethyl lactate	-0.2552932761443
+1180	ethyl lactate	Levilactobacillus_senmaizukei	NA
+1181	Halolactibacillus_alkaliphilus	ethyloctanoate	-0.255289102420045
+1182	ethyloctanoate	Halolactibacillus_alkaliphilus	NA
+1183	Terasakiispira_papahanaumokuakeensis	ethyl lactate	-0.255270287418435
+1184	ethyl lactate	Terasakiispira_papahanaumokuakeensis	NA
+1185	Terasakiispira_papahanaumokuakeensis	1-nonanol	-0.255268363110232
+1186	1-nonanol	Terasakiispira_papahanaumokuakeensis	NA
+1187	Alkalibacterium_thalassium	hexanoic acid	-0.25523796373051
+1188	hexanoic acid	Alkalibacterium_thalassium	NA
+1189	Achromobacter_mucicolens	1-hexanol	0.25519367281332
+1190	1-hexanol	Achromobacter_mucicolens	NA
+1191	Actinomyces_SGB33761	1-hexanol	-0.255140239613863
+1192	1-hexanol	Actinomyces_SGB33761	NA
+1193	Lelliottia_amnigena	ethylhydroxycinnamate	0.255119373979951
+1194	ethylhydroxycinnamate	Lelliottia_amnigena	NA
+1195	Clostridium_sp_E02	2-pentanol	-0.255087792957378
+1196	2-pentanol	Clostridium_sp_E02	NA
+1197	Malaciobacter_marinus	ethylhexanoate	-0.255055028842031
+1198	ethylhexanoate	Malaciobacter_marinus	NA
+1199	Achromobacter_mucicolens	ethylhydroxycinnamate	0.255040548233006
+1200	ethylhydroxycinnamate	Achromobacter_mucicolens	NA
+1201	Salinibacter_ruber	isoamylalcohol	-0.255026687511841
+1202	isoamylalcohol	Salinibacter_ruber	NA
+1203	Marinilactibacillus_piezotolerans	ethylheptanoate	-0.254941552217906
+1204	ethylheptanoate	Marinilactibacillus_piezotolerans	NA
+1205	Altericroceibacterium_endophyticum	2-pentanol	-0.254917236135279
+1206	2-pentanol	Altericroceibacterium_endophyticum	NA
+1207	Pichia_manshurica	isoamylacetate	0.25486820899603
+1208	isoamylacetate	Pichia_manshurica	NA
+1209	Zunongwangia_profunda	trans-2-hepten-1-ol	-0.254763457998655
+1210	trans-2-hepten-1-ol	Zunongwangia_profunda	NA
+1211	Alkalibacterium_thalassium	propanoic acid	-0.254624114885029
+1212	propanoic acid	Alkalibacterium_thalassium	NA
+1213	Rhodobacteraceae_bacterium	trans-2-hepten-1-ol	-0.254613856126478
+1214	trans-2-hepten-1-ol	Rhodobacteraceae_bacterium	NA
+1215	Pediococcus_parvulus	acetic acid	0.254606646248221
+1216	acetic acid	Pediococcus_parvulus	NA
+1217	Levilactobacillus_suantsaii	ethyl-3-methylbutanoate	-0.254373439178716
+1218	ethyl-3-methylbutanoate	Levilactobacillus_suantsaii	NA
+1219	Vibrio_sp_H11	isoamylalcohol	-0.25433240448811
+1220	isoamylalcohol	Vibrio_sp_H11	NA
+1221	Leuconostoc_mesenteroides	α-farnesene	0.254316913404411
+1222	α-farnesene	Leuconostoc_mesenteroides	NA
+1223	Shewanella_sp_C32	ethyl-3-methylbutanoate	-0.254274255085986
+1224	ethyl-3-methylbutanoate	Shewanella_sp_C32	NA
+1225	Malaciobacter_marinus	2-methyl-1-propanol	-0.254223635100111
+1226	2-methyl-1-propanol	Malaciobacter_marinus	NA
+1227	Salinibacter_ruber	2-phenylethanol	-0.254217297703646
+1228	2-phenylethanol	Salinibacter_ruber	NA
+1229	Idiomarina_loihiensis	ethanol	-0.254201616704942
+1230	ethanol	Idiomarina_loihiensis	NA
+1231	Halomonas_boliviensis	methylacetate	-0.25419127167933
+1232	methylacetate	Halomonas_boliviensis	NA
+1233	Lelliottia_amnigena	1-nonanol	0.254107824437955
+1234	1-nonanol	Lelliottia_amnigena	NA
+1235	Shewanella_dokdonensis	2-butanol	-0.253922242123437
+1236	2-butanol	Shewanella_dokdonensis	NA
+1237	Pseudopuniceibacterium_antarcticum	ethanol	-0.253890032823299
+1238	ethanol	Pseudopuniceibacterium_antarcticum	NA
+1239	Alkalibacterium_thalassium	2-methyl-1-propanol	-0.253858243925519
+1240	2-methyl-1-propanol	Alkalibacterium_thalassium	NA
+1241	Levilactobacillus_namurensis	benzyl alcohol	-0.253845462342117
+1242	benzyl alcohol	Levilactobacillus_namurensis	NA
+1243	Arcobacter_sp_CECT_8985	ethyl-2-methylbutanoate	-0.25379689370345
+1244	ethyl-2-methylbutanoate	Arcobacter_sp_CECT_8985	NA
+1245	Erwinia_rhapontici	cis-3-hexenylacetate	0.253731087134924
+1246	cis-3-hexenylacetate	Erwinia_rhapontici	NA
+1247	Levilactobacillus_senmaizukei	2,3-butanediol	-0.253519759807293
+1248	2,3-butanediol	Levilactobacillus_senmaizukei	NA
+1249	Aerococcus_urinaeequi	phenol	-0.253409787086602
+1250	phenol	Aerococcus_urinaeequi	NA
+1251	Secundilactobacillus_collinoides	methylpropionate	0.253382790569247
+1252	methylpropionate	Secundilactobacillus_collinoides	NA
+1253	Alcanivorax_gelatiniphagus	ethylphenol	0.25324049173254
+1254	ethylphenol	Alcanivorax_gelatiniphagus	NA
+1255	actinobacterium_LLX17	ethyl-3-methylbutanoate	-0.253174581358464
+1256	ethyl-3-methylbutanoate	actinobacterium_LLX17	NA
+1257	Mesonia_oceanica	1-butanol	-0.253137103512837
+1258	1-butanol	Mesonia_oceanica	NA
+1259	Candida_boidinii_group_1	butanoic acid	-0.253008966616246
+1260	butanoic acid	Candida_boidinii_group_1	NA
+1261	Paucilactobacillus_suebicus	hexanoic acid	-0.252889472647113
+1262	hexanoic acid	Paucilactobacillus_suebicus	NA
+1263	Lelliottia_amnigena	methylhexanoate	0.252810519360787
+1264	methylhexanoate	Lelliottia_amnigena	NA
+1265	Terasakiispira_papahanaumokuakeensis	ethylhexanoate	-0.252746399566887
+1266	ethylhexanoate	Terasakiispira_papahanaumokuakeensis	NA
+1267	Altericroceibacterium_indicum	ethylheptanoate	-0.252733732828303
+1268	ethylheptanoate	Altericroceibacterium_indicum	NA
+1269	Altericroceibacterium_endophyticum	methylacetate	-0.252696153230864
+1270	methylacetate	Altericroceibacterium_endophyticum	NA
+1271	Pediococcus_parvulus	α-terpineol	0.252681987195426
+1272	α-terpineol	Pediococcus_parvulus	NA
+1273	Achromobacter_mucicolens	propanoic acid	0.252654543499184
+1274	propanoic acid	Achromobacter_mucicolens	NA
+1275	Arcobacter_sp_F2176	ethanol	-0.252635957621161
+1276	ethanol	Arcobacter_sp_F2176	NA
+1277	Ancrocorticia_populi	benzyl alcohol	-0.2526195353432
+1278	benzyl alcohol	Ancrocorticia_populi	NA
+1279	Pichia_membranifaciens_group_1	2-butanol	0.25250030095951
+1280	2-butanol	Pichia_membranifaciens_group_1	NA
+1281	Leuconostoc_suionicum	cis-2-decenal	0.252067075564513
+1282	cis-2-decenal	Leuconostoc_suionicum	NA
+1283	Leuconostoc_pseudomesenteroides	cis-3-hexenylacetate	0.252014009740419
+1284	cis-3-hexenylacetate	Leuconostoc_pseudomesenteroides	NA
+1285	Leuconostoc_mesenteroides	ethylbutanoate	0.251876482322168
+1286	ethylbutanoate	Leuconostoc_mesenteroides	NA
+1287	Pantoea_agglomerans	nonanoic acid	0.251843485991799
+1288	nonanoic acid	Pantoea_agglomerans	NA
+1289	Halomonas_boliviensis	ethyl-3-methylbutanoate	-0.25179153830274
+1290	ethyl-3-methylbutanoate	Halomonas_boliviensis	NA
+1291	Aerococcus_urinaeequi	benzyl alcohol	-0.251666443846611
+1292	benzyl alcohol	Aerococcus_urinaeequi	NA
+1293	Paraburkholderia_ferrariae	benzaldehyde	0.251650245065293
+1294	Paraburkholderia_fungorum	benzaldehyde	0.251650245065293
+1295	Microbacterium_laevaniformans	benzaldehyde	0.251650245065293
+1296	Burkholderia_sp_4M9327F10	benzaldehyde	0.251650245065293
+1297	benzaldehyde	Paraburkholderia_ferrariae	NA
+1298	benzaldehyde	Paraburkholderia_fungorum	NA
+1299	benzaldehyde	Microbacterium_laevaniformans	NA
+1300	benzaldehyde	Burkholderia_sp_4M9327F10	NA
+1301	Halomonas_boliviensis	hexanal	-0.251621415236619
+1302	hexanal	Halomonas_boliviensis	NA
+1303	Halomonas_hibernica	ethylacetate	-0.251323149696246
+1304	ethylacetate	Halomonas_hibernica	NA
+1305	Marinilactibacillus_piezotolerans	1-hexanol	-0.251278842923001
+1306	1-hexanol	Marinilactibacillus_piezotolerans	NA
+1307	Shewanella_sp_C32	2-octanone	0.251253093236473
+1308	2-octanone	Shewanella_sp_C32	NA
+1309	Altericroceibacterium_endophyticum	ethylacetate	-0.251221360793149
+1310	ethylacetate	Altericroceibacterium_endophyticum	NA
+1311	Enterobacter_huaxiensis	heptanoic acid	0.251121404647266
+1312	heptanoic acid	Enterobacter_huaxiensis	NA
+1313	Halomonas_campaniensis	ethylphenol	0.251100180376251
+1314	ethylphenol	Halomonas_campaniensis	NA
+1315	Leuconostoc_mesenteroides	benzylacetate	0.250905981066505
+1316	benzylacetate	Leuconostoc_mesenteroides	NA
+1317	Lelliottia_amnigena	cis-3-hexenylacetate	0.250770369880596
+1318	cis-3-hexenylacetate	Lelliottia_amnigena	NA
+1319	Achromobacter_mucicolens	3-pentanol	0.250716290194316
+1320	3-pentanol	Achromobacter_mucicolens	NA
+1321	Lelliottia_amnigena	ethanol	0.250689789293838
+1322	ethanol	Lelliottia_amnigena	NA
+1323	Lelliottia_amnigena	isoamylacetate	0.250444157750003
+1324	isoamylacetate	Lelliottia_amnigena	NA
+1325	Lentilactobacillus_kisonensis	1-hexanol	0.250225829839229
+1326	1-hexanol	Lentilactobacillus_kisonensis	NA
+1327	Clostridium_sp_E02	β-phenylethylisobutanoate	-0.250167937623353
+1328	β-phenylethylisobutanoate	Clostridium_sp_E02	NA
+1329	Altericroceibacterium_indicum	2,3-butanediol	-0.249979416087253
+1330	2,3-butanediol	Altericroceibacterium_indicum	NA
+1331	Ancrocorticia_populi	1-nonanol	-0.249831377534446
+1332	1-nonanol	Ancrocorticia_populi	NA
+1333	Weissella_soli	ethylhydroxycinnamate	0.249667698928906
+1334	ethylhydroxycinnamate	Weissella_soli	NA
+1335	Terasakiispira_papahanaumokuakeensis	1-hexanol	-0.249645498492889
+1336	1-hexanol	Terasakiispira_papahanaumokuakeensis	NA
+1337	Kluyvera_intermedia	phenol	0.249559105864205
+1338	phenol	Kluyvera_intermedia	NA
+1339	Actinomyces_SGB33761	ethylphenol	0.249510780048161
+1340	ethylphenol	Actinomyces_SGB33761	NA
+1341	Lentilactobacillus_kisonensis	cis-3-hexenylacetate	0.24944160040903
+1342	cis-3-hexenylacetate	Lentilactobacillus_kisonensis	NA
+1343	Zunongwangia_profunda	1-butanol	-0.249365296631932
+1344	1-butanol	Zunongwangia_profunda	NA
+1345	Halomonas_hibernica	ethyl lactate	-0.249289356417559
+1346	ethyl lactate	Halomonas_hibernica	NA
+1347	Ralstonia_pickettii	2,3-butanediol	-0.249288886098902
+1348	2,3-butanediol	Ralstonia_pickettii	NA
+1349	Corynebacterium_casei	3-pentanol	-0.249224555063669
+1350	3-pentanol	Corynebacterium_casei	NA
+1351	Salinicola_endophyticus	octanal	-0.249204342604708
+1352	octanal	Salinicola_endophyticus	NA
+1353	Levilactobacillus_senmaizukei	1-nonanol	-0.249151100351247
+1354	1-nonanol	Levilactobacillus_senmaizukei	NA
+1355	Alkalibacterium_thalassium	methylacetate	-0.249100176342823
+1356	methylacetate	Alkalibacterium_thalassium	NA
+1357	Alkalibacterium_pelagium	ethyl-2-methylbutanoate	-0.24904488895534
+1358	ethyl-2-methylbutanoate	Alkalibacterium_pelagium	NA
+1359	Altericroceibacterium_indicum	α-farnesene	-0.24903600434489
+1360	α-farnesene	Altericroceibacterium_indicum	NA
+1361	Brevibacterium_linens	2-methyl-1-propanol	-0.249010313847457
+1362	2-methyl-1-propanol	Brevibacterium_linens	NA
+1363	Halolactibacillus_alkaliphilus	cis-3-hexenylacetate	-0.249009286244625
+1364	cis-3-hexenylacetate	Halolactibacillus_alkaliphilus	NA
+1365	Mesonia_oceanica	ethylhexanoate	-0.248895946245093
+1366	ethylhexanoate	Mesonia_oceanica	NA
+1367	Halomonas_boliviensis	ethylhexanoate	-0.248782999745793
+1368	ethylhexanoate	Halomonas_boliviensis	NA
+1369	Arcobacter_sp_CECT_8985	1-butanol	-0.248770390301786
+1370	1-butanol	Arcobacter_sp_CECT_8985	NA
+1371	Lentilactobacillus_kisonensis	octanoic acid	0.248636067646239
+1372	octanoic acid	Lentilactobacillus_kisonensis	NA
+1373	Erwinia_rhapontici	1-nonanol	0.248579450321829
+1374	1-nonanol	Erwinia_rhapontici	NA
+1375	Halomonas_titanicae	ethylphenol	0.248556438745878
+1376	ethylphenol	Halomonas_titanicae	NA
+1377	Acidipropionibacterium_acidipropionici	acetic acid	-0.24854985305804
+1378	acetic acid	Acidipropionibacterium_acidipropionici	NA
+1379	Enterococcus_sp_RIT_PI_f	ethylheptanoate	-0.248447292349857
+1380	ethylheptanoate	Enterococcus_sp_RIT_PI_f	NA
+1381	Martelella_mediterranea	trans-2-hepten-1-ol	-0.248436091803539
+1382	trans-2-hepten-1-ol	Martelella_mediterranea	NA
+1383	Vibrio_sp_H11	ethyl-3-methylbutanoate	-0.248409791469737
+1384	ethyl-3-methylbutanoate	Vibrio_sp_H11	NA
+1385	Leucobacter_sp_Psy1	isoamylalcohol	-0.248268712706923
+1386	isoamylalcohol	Leucobacter_sp_Psy1	NA
+1387	Leuconostoc_mesenteroides	methylacetate	0.248264854178064
+1388	methylacetate	Leuconostoc_mesenteroides	NA
+1389	Haloquadratum_walsbyi	2,3-butanediol	-0.248232875738377
+1390	2,3-butanediol	Haloquadratum_walsbyi	NA
+1391	Secundilactobacillus_collinoides	isovaleric acid	0.248215439072659
+1392	isovaleric acid	Secundilactobacillus_collinoides	NA
+1393	Paucilactobacillus_vaccinostercus	ethyl-3-methylbutanoate	-0.248131943325392
+1394	ethyl-3-methylbutanoate	Paucilactobacillus_vaccinostercus	NA
+1395	Alkalibacterium_olivapovliticus	α-farnesene	-0.248026041486607
+1396	α-farnesene	Alkalibacterium_olivapovliticus	NA
+1397	Haloplanus_salinus	ethanol	-0.248021428131103
+1398	ethanol	Haloplanus_salinus	NA
+1399	Enterobacter_huaxiensis	hexanoic acid	0.247870940262584
+1400	hexanoic acid	Enterobacter_huaxiensis	NA
+1401	Debaryomyces_hansenii_group_1	4-methoxyphenol	-0.24765713564769
+1402	4-methoxyphenol	Debaryomyces_hansenii_group_1	NA
+1403	Agrobacterium_tomkonis	1-butanol	-0.247627545025754
+1404	1-butanol	Agrobacterium_tomkonis	NA
+1405	Leuconostoc_mesenteroides	isoamylacetate	0.247592851084147
+1406	isoamylacetate	Leuconostoc_mesenteroides	NA
+1407	Martelella_mediterranea	ethyl lactate	-0.247567060298148
+1408	ethyl lactate	Martelella_mediterranea	NA
+1409	Aerococcus_urinaeequi	ethyl lactate	-0.247537977162897
+1410	ethyl lactate	Aerococcus_urinaeequi	NA
+1411	Alkalibacterium_pelagium	acetic acid	-0.247440921902974
+1412	acetic acid	Alkalibacterium_pelagium	NA
+1413	Salinicola_salarius	1-nonanol	-0.247411965484475
+1414	1-nonanol	Salinicola_salarius	NA
+1415	Leuconostoc_mesenteroides	nonanoic acid	0.247342881204672
+1416	nonanoic acid	Leuconostoc_mesenteroides	NA
+1417	Marinilactibacillus_psychrotolerans	methylacetate	-0.247199116652197
+1418	methylacetate	Marinilactibacillus_psychrotolerans	NA
+1419	Zunongwangia_profunda	ethyl lactate	-0.247123899127398
+1420	ethyl lactate	Zunongwangia_profunda	NA
+1421	Stutzerimonas_stutzeri	isoamylalcohol	-0.247104967218564
+1422	isoamylalcohol	Stutzerimonas_stutzeri	NA
+1423	Shewanella_sp_C32	1-butanol	-0.246992753179907
+1424	1-butanol	Shewanella_sp_C32	NA
+1425	Levilactobacillus_namurensis	1-nonanol	-0.246974937409928
+1426	1-nonanol	Levilactobacillus_namurensis	NA
+1427	Ligilactobacillus_acidipiscis	ethyl-2-methylbutanoate	-0.246972659902381
+1428	ethyl-2-methylbutanoate	Ligilactobacillus_acidipiscis	NA
+1429	GGB63682_SGB86014	ethanol	-0.246967671955014
+1430	ethanol	GGB63682_SGB86014	NA
+1431	Clostridium_sp_E02	methylacetate	-0.24674682047192
+1432	methylacetate	Clostridium_sp_E02	NA
+1433	Alkalibacterium_thalassium	1-hexanol	-0.246744073382629
+1434	1-hexanol	Alkalibacterium_thalassium	NA
+1435	Pichia_kudriavzevii	benzyl alcohol	-0.246709410183451
+1436	benzyl alcohol	Pichia_kudriavzevii	NA
+1437	Pseudopuniceibacterium_antarcticum	benzyl alcohol	-0.246696657463834
+1438	benzyl alcohol	Pseudopuniceibacterium_antarcticum	NA
+1439	Streptohalobacillus_salinus	benzyl alcohol	-0.246641974219187
+1440	benzyl alcohol	Streptohalobacillus_salinus	NA
+1441	Salinibacter_ruber	1-hexanol	-0.246634288918431
+1442	1-hexanol	Salinibacter_ruber	NA
+1443	Pichia_manshurica	ethanol	0.246462607690872
+1444	ethanol	Pichia_manshurica	NA
+1445	Ancrocorticia_populi	ethylacetate	-0.246450782340156
+1446	ethylacetate	Ancrocorticia_populi	NA
+1447	Acinetobacter_albensis	methylpropionate	-0.246372963172351
+1448	methylpropionate	Acinetobacter_albensis	NA
+1449	Methylophaga_sulfidovorans	octanal	-0.246009451091079
+1450	octanal	Methylophaga_sulfidovorans	NA
+1451	Ligilactobacillus_acidipiscis	isoamylalcohol	-0.245949119362512
+1452	isoamylalcohol	Ligilactobacillus_acidipiscis	NA
+1453	Arcobacter_sp_CECT_8985	isoamylalcohol	-0.245931838649536
+1454	isoamylalcohol	Arcobacter_sp_CECT_8985	NA
+1455	Arcobacter_sp_CECT_8985	1-hexanol	-0.245926180761668
+1456	1-hexanol	Arcobacter_sp_CECT_8985	NA
+1457	Arcobacter_sp_F2176	benzyl alcohol	-0.245863951529614
+1458	benzyl alcohol	Arcobacter_sp_F2176	NA
+1459	Ancrocorticia_populi	ethylheptanoate	-0.245784638556707
+1460	ethylheptanoate	Ancrocorticia_populi	NA
+1461	Zunongwangia_profunda	2,3-butanediol	-0.245763349156414
+1462	2,3-butanediol	Zunongwangia_profunda	NA
+1463	Halomonas_boliviensis	2-methyl-1-propanol	-0.245695174870012
+1464	2-methyl-1-propanol	Halomonas_boliviensis	NA
+1465	Shewanella_fodinae	ethylphenol	0.245564773997311
+1466	ethylphenol	Shewanella_fodinae	NA
+1467	Paucilactobacillus_vaccinostercus	methylhexanoate	-0.245474191562704
+1468	methylhexanoate	Paucilactobacillus_vaccinostercus	NA
+1469	actinobacterium_LLX17	ethylbutanoate	-0.245390566653587
+1470	ethylbutanoate	actinobacterium_LLX17	NA
+1471	Erwinia_rhapontici	1-hexanol	0.245371402202306
+1472	1-hexanol	Erwinia_rhapontici	NA
+1473	Enterococcus_sp_RIT_PI_f	ethanol	-0.245316773303876
+1474	ethanol	Enterococcus_sp_RIT_PI_f	NA
+1475	Vibrio_sp_H11	ethyl-2-methylbutanoate	-0.245249594237599
+1476	ethyl-2-methylbutanoate	Vibrio_sp_H11	NA
+1477	Pseudomonas_putida	methylpropionate	-0.245241415937914
+1478	methylpropionate	Pseudomonas_putida	NA
+1479	Haloquadratum_walsbyi	cis-3-hexen-1-ol	-0.24502966102468
+1480	cis-3-hexen-1-ol	Haloquadratum_walsbyi	NA
+1481	Stutzerimonas_stutzeri	1-butanol	-0.24476598740616
+1482	1-butanol	Stutzerimonas_stutzeri	NA
+1483	Alkalibacterium_thalassium	2-pentanol	-0.2445932242273
+1484	2-pentanol	Alkalibacterium_thalassium	NA
+1485	Clostridium_sp_E02	3-pentanol	-0.244475895307155
+1486	3-pentanol	Clostridium_sp_E02	NA
+1487	Shewanella_baltica	3-pentanol	-0.244385510479264
+1488	3-pentanol	Shewanella_baltica	NA
+1489	Marinilactibacillus_psychrotolerans	hexanoic acid	-0.24416760297299
+1490	hexanoic acid	Marinilactibacillus_psychrotolerans	NA
+1491	Clostridium_sp_E02	cis-3-hexenylacetate	-0.243988597361563
+1492	cis-3-hexenylacetate	Clostridium_sp_E02	NA
+1493	Altericroceibacterium_endophyticum	ethyl lactate	-0.243957757222364
+1494	ethyl lactate	Altericroceibacterium_endophyticum	NA
+1495	Pediococcus_parvulus	ethylhydroxycinnamate	0.243807627071868
+1496	ethylhydroxycinnamate	Pediococcus_parvulus	NA
+1497	Halomonas_boliviensis	α-farnesene	-0.243760377943915
+1498	α-farnesene	Halomonas_boliviensis	NA
+1499	Thalassospira_sp_MCCC_1A01428	ethylheptanoate	-0.243683804358175
+1500	ethylheptanoate	Thalassospira_sp_MCCC_1A01428	NA
+1501	Halomonas_hibernica	phenol	-0.243638559007431
+1502	phenol	Halomonas_hibernica	NA
+1503	Leuconostoc_mesenteroides	1-butanol	0.243621017955571
+1504	1-butanol	Leuconostoc_mesenteroides	NA
+1505	Achromobacter_mucicolens	4-methoxyphenol	0.243514951487663
+1506	4-methoxyphenol	Achromobacter_mucicolens	NA
+1507	Mesonia_oceanica	ethyloctanoate	-0.243501088990942
+1508	ethyloctanoate	Mesonia_oceanica	NA
+1509	Alkalibacterium_thalassium	isovaleric acid	-0.243423428663223
+1510	isovaleric acid	Alkalibacterium_thalassium	NA
+1511	Paucilactobacillus_vaccinostercus	ethyl lactate	-0.243393164570763
+1512	ethyl lactate	Paucilactobacillus_vaccinostercus	NA
+1513	Salinibacter_ruber	ethylbutanoate	-0.243277412779908
+1514	ethylbutanoate	Salinibacter_ruber	NA
+1515	Arcobacter_sp_CECT_8985	ethanol	-0.243138752271015
+1516	ethanol	Arcobacter_sp_CECT_8985	NA
+1517	Ancrocorticia_populi	2-pentanol	-0.243121055301124
+1518	2-pentanol	Ancrocorticia_populi	NA
+1519	Halomonas_boliviensis	phenol	-0.24311997910977
+1520	phenol	Halomonas_boliviensis	NA
+1521	Lentilactobacillus_kisonensis	ethylacetate	0.243026639281473
+1522	ethylacetate	Lentilactobacillus_kisonensis	NA
+1523	Streptohalobacillus_salinus	ethylphenol	0.243024937318672
+1524	ethylphenol	Streptohalobacillus_salinus	NA
+1525	Sphingomonas_sp_3F27E9_B	benzaldehyde	0.243024725271973
+1526	benzaldehyde	Sphingomonas_sp_3F27E9_B	NA
+1527	Corynebacterium_variabile	3-pentanol	-0.242983473222428
+1528	3-pentanol	Corynebacterium_variabile	NA
+1529	Leifsonia_shinshuensis	benzaldehyde	0.242934431857419
+1530	Herbaspirillum_huttiense	benzaldehyde	0.242934431857419
+1531	benzaldehyde	Leifsonia_shinshuensis	NA
+1532	benzaldehyde	Herbaspirillum_huttiense	NA
+1533	Mesonia_oceanica	benzyl alcohol	-0.242902682264295
+1534	benzyl alcohol	Mesonia_oceanica	NA
+1535	Aerococcus_urinaeequi	cis-3-hexenylacetate	-0.242854678440952
+1536	cis-3-hexenylacetate	Aerococcus_urinaeequi	NA
+1537	Stenotrophomonas_maltophilia	benzaldehyde	0.242783942833163
+1538	benzaldehyde	Stenotrophomonas_maltophilia	NA
+1539	Ligilactobacillus_acidipiscis	ethylacetate	-0.242719918515533
+1540	ethylacetate	Ligilactobacillus_acidipiscis	NA
+1541	Pseudomonas_sp_5Ae_yellow	2-methyl-1-propanol	-0.242501409003527
+1542	2-methyl-1-propanol	Pseudomonas_sp_5Ae_yellow	NA
+1543	Shewanella_baltica	methyloctanoate	-0.242493062844349
+1544	methyloctanoate	Shewanella_baltica	NA
+1545	Erwinia_billingiae	guaiacol	0.24219334215444
+1546	guaiacol	Erwinia_billingiae	NA
+1547	Lentilactobacillus_parafarraginis	2-phenylethanol	0.24211740317346
+1548	2-phenylethanol	Lentilactobacillus_parafarraginis	NA
+1549	Sinomicrobium_oceani	3-pentanol	-0.241995397518262
+1550	3-pentanol	Sinomicrobium_oceani	NA
+1551	Enterobacter_ludwigii	ethylcinnamate	0.241980703001695
+1552	ethylcinnamate	Enterobacter_ludwigii	NA
+1553	Malaciobacter_marinus	ethanol	-0.241964847382666
+1554	ethanol	Malaciobacter_marinus	NA
+1555	Terasakiispira_papahanaumokuakeensis	hexanal	-0.241831544542654
+1556	hexanal	Terasakiispira_papahanaumokuakeensis	NA
+1557	Shewanella_dokdonensis	ethyl lactate	-0.241737284506977
+1558	ethyl lactate	Shewanella_dokdonensis	NA
+1559	Lacticaseibacillus_paracasei	ethylbutanoate	0.241682596111408
+1560	ethylbutanoate	Lacticaseibacillus_paracasei	NA
+1561	Halomonas_titanicae	ethylhexanoate	-0.241616259335743
+1562	ethylhexanoate	Halomonas_titanicae	NA
+1563	Halomonas_alkaliantarctica	isoamylalcohol	-0.241545819627751
+1564	isoamylalcohol	Halomonas_alkaliantarctica	NA
+1565	Candida_boidinii_group_1	ethyl lactate	-0.241514152561672
+1566	ethyl lactate	Candida_boidinii_group_1	NA
+1567	Lelliottia_nimipressuralis	hexanal	0.241453307422427
+1568	hexanal	Lelliottia_nimipressuralis	NA
+1569	Pediococcus_ethanolidurans	ethylbutanoate	-0.24143427330186
+1570	ethylbutanoate	Pediococcus_ethanolidurans	NA
+1571	Rhodobacteraceae_bacterium	2-butanol	-0.241293061447792
+1572	2-butanol	Rhodobacteraceae_bacterium	NA
+1573	Halomonas_zhanjiangensis	ethyl-2-methylbutanoate	-0.241106658367515
+1574	ethyl-2-methylbutanoate	Halomonas_zhanjiangensis	NA
+1575	Halomonas_zhanjiangensis	methylacetate	-0.241097916633232
+1576	methylacetate	Halomonas_zhanjiangensis	NA
+1577	Arcobacter_sp_CECT_8985	3-pentanol	-0.241045797261141
+1578	3-pentanol	Arcobacter_sp_CECT_8985	NA
+1579	Halomonas_boliviensis	isoamylacetate	-0.24093848632315
+1580	isoamylacetate	Halomonas_boliviensis	NA
+1581	Leuconostoc_mesenteroides	butanoic acid	0.240856277073672
+1582	butanoic acid	Leuconostoc_mesenteroides	NA
+1583	Paucilactobacillus_suebicus	trans-2-hepten-1-ol	-0.240819703633669
+1584	trans-2-hepten-1-ol	Paucilactobacillus_suebicus	NA
+1585	Pichia_manshurica	ethyl lactate	0.24081515722587
+1586	ethyl lactate	Pichia_manshurica	NA
+1587	Shewanella_sp_C32	1-nonanol	-0.240755862497586
+1588	1-nonanol	Shewanella_sp_C32	NA
+1589	Acidipropionibacterium_acidipropionici	2-methyl-1-propanol	-0.240746778881533
+1590	2-methyl-1-propanol	Acidipropionibacterium_acidipropionici	NA
+1591	Kocuria_rhizophila	methyloctanoate	-0.240638666043654
+1592	methyloctanoate	Kocuria_rhizophila	NA
+1593	Paucilactobacillus_suebicus	2-phenylethanol	-0.240529335490954
+1594	2-phenylethanol	Paucilactobacillus_suebicus	NA
+1595	Lacticaseibacillus_rhamnosus	ethanol	-0.240505282111035
+1596	ethanol	Lacticaseibacillus_rhamnosus	NA
+1597	Sinomicrobium_oceani	ethanol	-0.240472841310427
+1598	ethanol	Sinomicrobium_oceani	NA
+1599	Zunongwangia_profunda	ethylphenol	0.240410821392917
+1600	ethylphenol	Zunongwangia_profunda	NA
+1601	Malaciobacter_marinus	4-methoxyphenol	-0.240396321851169
+1602	4-methoxyphenol	Malaciobacter_marinus	NA
+1603	Marinilactibacillus_piezotolerans	butanoic acid	-0.240374462180211
+1604	butanoic acid	Marinilactibacillus_piezotolerans	NA
+1605	Ligilactobacillus_acidipiscis	1-hexanol	-0.240345973762177
+1606	1-hexanol	Ligilactobacillus_acidipiscis	NA
+1607	Terasakiispira_papahanaumokuakeensis	ethylcinnamate	-0.240217882401011
+1608	ethylcinnamate	Terasakiispira_papahanaumokuakeensis	NA
+1609	Halomonas_hibernica	ethyl-3-methylbutanoate	-0.240173749591918
+1610	ethyl-3-methylbutanoate	Halomonas_hibernica	NA
+1611	Halomonas_boliviensis	1-propanol	-0.24016686678416
+1612	1-propanol	Halomonas_boliviensis	NA
+1613	Lacticaseibacillus_paracasei	p-creosol	0.240003629602092
+1614	p-creosol	Lacticaseibacillus_paracasei	NA
+1615	Paucilactobacillus_vaccinostercus	2-phenylethanol	-0.239997428416958
+1616	2-phenylethanol	Paucilactobacillus_vaccinostercus	NA
+1617	Gluconobacter_cerinus	methylpropionate	-0.23997160584504
+1618	methylpropionate	Gluconobacter_cerinus	NA
+1619	Pediococcus_ethanolidurans	2-phenylethanol	-0.239879515835371
+1620	2-phenylethanol	Pediococcus_ethanolidurans	NA
+1621	Leuconostoc_mesenteroides	4-methoxyphenol	0.239871134290753
+1622	4-methoxyphenol	Leuconostoc_mesenteroides	NA
+1623	Candida_boidinii_group_2	β-phenylethylisobutanoate	-0.239752037470513
+1624	β-phenylethylisobutanoate	Candida_boidinii_group_2	NA
+1625	Haloquadratum_walsbyi	methylacetate	-0.239735562106676
+1626	methylacetate	Haloquadratum_walsbyi	NA
+1627	Halolactibacillus_alkaliphilus	ethylphenol	0.239732941099437
+1628	ethylphenol	Halolactibacillus_alkaliphilus	NA
+1629	Levilactobacillus_senmaizukei	isoamylalcohol	-0.239702835835468
+1630	isoamylalcohol	Levilactobacillus_senmaizukei	NA
+1631	Pantoea_agglomerans	benzaldehyde	0.239645492306713
+1632	benzaldehyde	Pantoea_agglomerans	NA
+1633	Haloplanus_salinus	ethyl-3-methylbutanoate	-0.239568554024732
+1634	ethyl-3-methylbutanoate	Haloplanus_salinus	NA
+1635	Marinomonas_lutimaris	ethylphenol	0.239507456823734
+1636	ethylphenol	Marinomonas_lutimaris	NA
+1637	Levilactobacillus_senmaizukei	ethylheptanoate	-0.239496582682052
+1638	ethylheptanoate	Levilactobacillus_senmaizukei	NA
+1639	Ancrocorticia_populi	ethyl-3-methylbutanoate	-0.239492400152035
+1640	ethyl-3-methylbutanoate	Ancrocorticia_populi	NA
+1641	Malaciobacter_marinus	isoamylalcohol	-0.239370382559163
+1642	isoamylalcohol	Malaciobacter_marinus	NA
+1643	Secundilactobacillus_collinoides	2-butanone	0.239143972295047
+1644	2-butanone	Secundilactobacillus_collinoides	NA
+1645	Aerococcus_urinaeequi	trans-2-hepten-1-ol	-0.239140667889298
+1646	trans-2-hepten-1-ol	Aerococcus_urinaeequi	NA
+1647	Lentilactobacillus_kisonensis	butanoic acid	0.239140661466967
+1648	butanoic acid	Lentilactobacillus_kisonensis	NA
+1649	Pichia_membranifaciens_group_2	isoamylacetate	0.239061866878838
+1650	isoamylacetate	Pichia_membranifaciens_group_2	NA
+1651	Enterobacter_huaxiensis	guaiacol	0.239019164101844
+1652	guaiacol	Enterobacter_huaxiensis	NA
+1653	Levilactobacillus_namurensis	isobutyric acid	-0.23885651205362
+1654	isobutyric acid	Levilactobacillus_namurensis	NA
+1655	Halomonas_sp_FME20	α-farnesene	-0.238796233687521
+1656	α-farnesene	Halomonas_sp_FME20	NA
+1657	Zunongwangia_profunda	hexanoic acid	-0.238784528151543
+1658	hexanoic acid	Zunongwangia_profunda	NA
+1659	Enterobacter_mori	benzaldehyde	0.238711476375908
+1660	benzaldehyde	Enterobacter_mori	NA
+1661	Halomonas_sp_FME20	ethylheptanoate	-0.238536875341958
+1662	ethylheptanoate	Halomonas_sp_FME20	NA
+1663	Clostridium_sp_E02	ethyl-2-methylbutanoate	-0.238530845476668
+1664	ethyl-2-methylbutanoate	Clostridium_sp_E02	NA
+1665	Paucilactobacillus_vaccinostercus	propanoic acid	-0.238509649571258
+1666	propanoic acid	Paucilactobacillus_vaccinostercus	NA
+1667	Altericroceibacterium_endophyticum	1-nonanol	-0.238421469526706
+1668	1-nonanol	Altericroceibacterium_endophyticum	NA
+1669	Alcanivorax_gelatiniphagus	ethyl lactate	-0.238371398337677
+1670	ethyl lactate	Alcanivorax_gelatiniphagus	NA
+1671	Salinicola_lusitanus	ethylphenol	0.238316042474876
+1672	ethylphenol	Salinicola_lusitanus	NA
+1673	Agrobacterium_tomkonis	cis-3-hexen-1-ol	-0.238248010952172
+1674	cis-3-hexen-1-ol	Agrobacterium_tomkonis	NA
+1675	actinobacterium_LLX17	ethanol	-0.238178337620949
+1676	ethanol	actinobacterium_LLX17	NA
+1677	Thalassospira_sp_MCCC_1A01428	ethylhexanoate	-0.238173874449485
+1678	ethylhexanoate	Thalassospira_sp_MCCC_1A01428	NA
+1679	Acidipropionibacterium_acidipropionici	ethanol	-0.238111065434039
+1680	ethanol	Acidipropionibacterium_acidipropionici	NA
+1681	Clostridium_sp_E02	ethylhydroxycinnamate	-0.238108209227184
+1682	ethylhydroxycinnamate	Clostridium_sp_E02	NA
+1683	Terasakiispira_papahanaumokuakeensis	ethyl-3-methylbutanoate	-0.23799744710315
+1684	ethyl-3-methylbutanoate	Terasakiispira_papahanaumokuakeensis	NA
+1685	Halomonas_zhanjiangensis	2-pentanol	-0.237958330563794
+1686	2-pentanol	Halomonas_zhanjiangensis	NA
+1687	Lentilactobacillus_parafarraginis	isobutyric acid	0.23782411001149
+1688	isobutyric acid	Lentilactobacillus_parafarraginis	NA
+1689	Halolactibacillus_alkaliphilus	benzylacetate	-0.237816558005867
+1690	benzylacetate	Halolactibacillus_alkaliphilus	NA
+1691	Halomonas_boliviensis	2,3-butanediol	-0.237806790998298
+1692	2,3-butanediol	Halomonas_boliviensis	NA
+1693	Clostridium_sp_E02	1-butanol	-0.237797405064168
+1694	1-butanol	Clostridium_sp_E02	NA
+1695	Leuconostoc_mesenteroides	trans-2-hepten-1-ol	0.237754339507237
+1696	trans-2-hepten-1-ol	Leuconostoc_mesenteroides	NA
+1697	Alkalibacterium_olivapovliticus	2-butanol	-0.2377542415128
+1698	2-butanol	Alkalibacterium_olivapovliticus	NA
+1699	Leuconostoc_mesenteroides	acetic acid	0.23766431191179
+1700	acetic acid	Leuconostoc_mesenteroides	NA
+1701	Pichia_manshurica	isoamylalcohol	0.237334367998773
+1702	isoamylalcohol	Pichia_manshurica	NA
+1703	Brevibacterium_linens	ethanol	-0.23731557596411
+1704	ethanol	Brevibacterium_linens	NA
+1705	Altericroceibacterium_indicum	1-propanol	-0.237307689745662
+1706	1-propanol	Altericroceibacterium_indicum	NA
+1707	Zunongwangia_profunda	2-pentanol	-0.237294391911963
+1708	2-pentanol	Zunongwangia_profunda	NA
+1709	Debaryomyces_hansenii_group_1	ethylhexanoate	-0.237283953286576
+1710	ethylhexanoate	Debaryomyces_hansenii_group_1	NA
+1711	Lelliottia_amnigena	ethylbutanoate	0.237233760292957
+1712	ethylbutanoate	Lelliottia_amnigena	NA
+1713	Pediococcus_ethanolidurans	1-propanol	-0.237232402304117
+1714	1-propanol	Pediococcus_ethanolidurans	NA
+1715	Arcobacter_sp_CECT_8985	benzyl alcohol	-0.237071550583478
+1716	benzyl alcohol	Arcobacter_sp_CECT_8985	NA
+1717	Rhodobacteraceae_bacterium	phenol	-0.237049562573447
+1718	phenol	Rhodobacteraceae_bacterium	NA
+1719	Terasakiispira_papahanaumokuakeensis	2,3-butanediol	-0.237015900061965
+1720	2,3-butanediol	Terasakiispira_papahanaumokuakeensis	NA
+1721	Weissella_paramesenteroides	2-butanol	-0.236971250262919
+1722	2-butanol	Weissella_paramesenteroides	NA
+1723	Halomonas_boliviensis	ethylphenol	0.236873111745774
+1724	ethylphenol	Halomonas_boliviensis	NA
+1725	Halomonas_alkaliantarctica	ethanol	-0.236820626274043
+1726	ethanol	Halomonas_alkaliantarctica	NA
+1727	Halomonas_sp_FME20	ethylhexanoate	-0.236716420453493
+1728	ethylhexanoate	Halomonas_sp_FME20	NA
+1729	Stutzerimonas_stutzeri	ethanol	-0.236636623121803
+1730	ethanol	Stutzerimonas_stutzeri	NA
+1731	Arcobacter_nitrofigilis	1-butanol	-0.236596291417905
+1732	1-butanol	Arcobacter_nitrofigilis	NA
+1733	Thalassospira_sp_MCCC_1A01428	ethyl-2-methylbutanoate	-0.236556803921462
+1734	ethyl-2-methylbutanoate	Thalassospira_sp_MCCC_1A01428	NA
+1735	Natronomonas_moolapensis	ethanol	-0.236511199859022
+1736	ethanol	Natronomonas_moolapensis	NA
+1737	Paucilactobacillus_suebicus	ethyl lactate	-0.236505073025885
+1738	ethyl lactate	Paucilactobacillus_suebicus	NA
+1739	Thalassospira_sp_TSL5_1	1-butanol	-0.23648446257099
+1740	1-butanol	Thalassospira_sp_TSL5_1	NA
+1741	Mesonia_hippocampi	ethylheptanoate	-0.236423269515099
+1742	ethylheptanoate	Mesonia_hippocampi	NA
+1743	Thalassospira_sp_MCCC_1A01428	1-butanol	-0.236416442811769
+1744	1-butanol	Thalassospira_sp_MCCC_1A01428	NA
+1745	Pichia_kudriavzevii	octanal	-0.236300415310393
+1746	octanal	Pichia_kudriavzevii	NA
+1747	Aerococcus_urinaeequi	α-farnesene	-0.236249424848915
+1748	α-farnesene	Aerococcus_urinaeequi	NA
+1749	Microbacterium_suaedae	1-butanol	-0.236053921510367
+1750	1-butanol	Microbacterium_suaedae	NA
+1751	Shewanella_dokdonensis	1-nonanol	-0.236037502757239
+1752	1-nonanol	Shewanella_dokdonensis	NA
+1753	Halomonas_titanicae	ethyl-3-methylbutanoate	-0.236016486703673
+1754	ethyl-3-methylbutanoate	Halomonas_titanicae	NA
+1755	Martelella_mediterranea	1-nonanol	-0.236009011935148
+1756	1-nonanol	Martelella_mediterranea	NA
+1757	Halomonas_elongata	octanal	-0.235979132339468
+1758	octanal	Halomonas_elongata	NA
+1759	Halomonas_boliviensis	2-phenylethanol	-0.235616325483964
+1760	2-phenylethanol	Halomonas_boliviensis	NA
+1761	Paucilactobacillus_wasatchensis	p-creosol	0.235574147863624
+1762	p-creosol	Paucilactobacillus_wasatchensis	NA
+1763	Agrobacterium_tomkonis	methylacetate	-0.23555489062108
+1764	methylacetate	Agrobacterium_tomkonis	NA
+1765	Mesonia_oceanica	1-hexanol	-0.235551711795056
+1766	1-hexanol	Mesonia_oceanica	NA
+1767	Leuconostoc_pseudomesenteroides	cis-2-decenal	0.235493430269855
+1768	cis-2-decenal	Leuconostoc_pseudomesenteroides	NA
+1769	Enterococcus_sp_RIT_PI_f	2-methyl-1-propanol	-0.235361379640133
+1770	2-methyl-1-propanol	Enterococcus_sp_RIT_PI_f	NA
+1771	Altericroceibacterium_endophyticum	ethyloctanoate	-0.235344724968479
+1772	ethyloctanoate	Altericroceibacterium_endophyticum	NA
+1773	Vibrio_sp_H11	2-methyl-1-propanol	-0.235234746650605
+1774	2-methyl-1-propanol	Vibrio_sp_H11	NA
+1775	Leuconostoc_mesenteroides	2-methyl-1-propanol	0.235226260932766
+1776	2-methyl-1-propanol	Leuconostoc_mesenteroides	NA
+1777	Lentilactobacillus_kisonensis	ethyloctanoate	0.235121955615971
+1778	ethyloctanoate	Lentilactobacillus_kisonensis	NA
+1779	Levilactobacillus_senmaizukei	ethylacetate	-0.235102025218595
+1780	ethylacetate	Levilactobacillus_senmaizukei	NA
+1781	Leuconostoc_suionicum	trans-2-hepten-1-ol	0.235019636586146
+1782	trans-2-hepten-1-ol	Leuconostoc_suionicum	NA
+1783	Pichia_kudriavzevii	ethanol	-0.235008894976591
+1784	ethanol	Pichia_kudriavzevii	NA
+1785	Alkalibacterium_pelagium	methylacetate	-0.234981695076636
+1786	methylacetate	Alkalibacterium_pelagium	NA
+1787	Halanaerobium_salsuginis	octanal	-0.234692656186629
+1788	octanal	Halanaerobium_salsuginis	NA
+1789	Thalassospira_sp_MCCC_1A01428	α-farnesene	-0.234659192305413
+1790	α-farnesene	Thalassospira_sp_MCCC_1A01428	NA
+1791	Alkalibacterium_pelagium	2-pentanol	-0.23465068189965
+1792	2-pentanol	Alkalibacterium_pelagium	NA
+1793	Zunongwangia_profunda	2-phenylethanol	-0.234649439435538
+1794	2-phenylethanol	Zunongwangia_profunda	NA
+1795	Leucobacter_sp_Psy1	ethanol	-0.234643559889738
+1796	ethanol	Leucobacter_sp_Psy1	NA
+1797	Alkalibacterium_pelagium	2,3-butanediol	-0.234639706607996
+1798	2,3-butanediol	Alkalibacterium_pelagium	NA
+1799	Halomonas_alkaliphila	isoamylalcohol	-0.23460531761481
+1800	isoamylalcohol	Halomonas_alkaliphila	NA
+1801	Clostridium_sp_E02	benzyl alcohol	-0.234597339913604
+1802	benzyl alcohol	Clostridium_sp_E02	NA
+1803	Halomonas_alkaliphila	ethyl-3-methylbutanoate	-0.234527324963426
+1804	ethyl-3-methylbutanoate	Halomonas_alkaliphila	NA
+1805	Halolactibacillus_alkaliphilus	1-octanol	-0.234524784318077
+1806	1-octanol	Halolactibacillus_alkaliphilus	NA
+1807	Sporolactobacillus_nakayamae	phenol	-0.234422680361822
+1808	phenol	Sporolactobacillus_nakayamae	NA
+1809	Alkalibacterium_olivapovliticus	methylacetate	-0.234384660972907
+1810	methylacetate	Alkalibacterium_olivapovliticus	NA
+1811	Thalassospira_sp_MCCC_1A01428	benzyl alcohol	-0.234260541670248
+1812	benzyl alcohol	Thalassospira_sp_MCCC_1A01428	NA
+1813	Salinibacter_ruber	benzyl alcohol	-0.234210968391264
+1814	benzyl alcohol	Salinibacter_ruber	NA
+1815	Enterococcus_sp_RIT_PI_f	isoamylalcohol	-0.234209437019453
+1816	isoamylalcohol	Enterococcus_sp_RIT_PI_f	NA
+1817	Halanaerobium_salsuginis	3-pentanol	-0.234095541283559
+1818	3-pentanol	Halanaerobium_salsuginis	NA
+1819	Halomonas_alkaliphila	2-methyl-1-propanol	-0.234017097137038
+1820	2-methyl-1-propanol	Halomonas_alkaliphila	NA
+1821	Malaciobacter_marinus	α-farnesene	-0.233768740917621
+1822	α-farnesene	Malaciobacter_marinus	NA
+1823	Alkalibacterium_olivapovliticus	cis-3-hexenylacetate	-0.233680301563695
+1824	cis-3-hexenylacetate	Alkalibacterium_olivapovliticus	NA
+1825	Candida_boidinii_group_1	trans-2-hepten-1-ol	-0.233627636278447
+1826	trans-2-hepten-1-ol	Candida_boidinii_group_1	NA
+1827	Levilactobacillus_brevis	ethylhexanoate	-0.23362213853302
+1828	ethylhexanoate	Levilactobacillus_brevis	NA
+1829	Pediococcus_ethanolidurans	hexanoic acid	-0.233608420197617
+1830	hexanoic acid	Pediococcus_ethanolidurans	NA
